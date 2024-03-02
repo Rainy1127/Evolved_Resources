@@ -25,7 +25,6 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                 .add(
                         ModItems.Iron_Hammer.get(),
                         ModItems.Brass_Hammer.get(),
-                        ModItems.Steel_Hammer.get(),
                         ModItems.Osmium_Hammer.get(),
                         ModItems.Enderium_Hammer.get());
 
