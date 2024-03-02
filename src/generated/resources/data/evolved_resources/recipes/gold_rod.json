@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "   ",
+    " A ",
+    " A "
+  ],
+  "result": {
+    "item": "evolved_resources:gold_rod"
+  },
+  "show_notification": true
+}

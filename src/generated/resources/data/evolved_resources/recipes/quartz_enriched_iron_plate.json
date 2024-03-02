@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "evolved_resources:quartz_enriched_iron_ingot"
+    },
+    {
+      "item": "evolved_resources:quartz_enriched_iron_ingot"
+    },
+    {
+      "tag": "forge:hammers"
+    }
+  ],
+  "result": {
+    "item": "evolved_resources:quartz_enriched_iron_plate"
+  }
+}

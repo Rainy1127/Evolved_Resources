@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "aluminum",
+  "key": {
+    "#": {
+      "item": "evolved_resources:raw_aluminum"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "evolved_resources:raw_aluminum_block"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "evolved_resources:item/osmium_hammer"
+  }
+}

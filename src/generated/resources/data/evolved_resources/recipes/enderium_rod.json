@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "evolved_resources:enderium_ingot"
+    }
+  },
+  "pattern": [
+    "   ",
+    " A ",
+    " A "
+  ],
+  "result": {
+    "item": "evolved_resources:enderium_rod"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "evolved_resources:item/aluminum_dust"
+  }
+}

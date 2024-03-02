@@ -1,0 +1,28 @@
+{
+  "values": [
+    "evolved_resources:andesite_alloy_nugget",
+    "evolved_resources:aluminum_nugget",
+    "evolved_resources:brass_nugget",
+    "evolved_resources:bronze_nugget",
+    "evolved_resources:constantan_nugget",
+    "evolved_resources:electrum_nugget",
+    "evolved_resources:enderium_nugget",
+    "evolved_resources:invar_nugget",
+    "evolved_resources:iridium_nugget",
+    "evolved_resources:lead_nugget",
+    "evolved_resources:lumium_nugget",
+    "evolved_resources:nickel_nugget",
+    "evolved_resources:signalum_nugget",
+    "evolved_resources:osmium_nugget",
+    "evolved_resources:platinum_nugget",
+    "evolved_resources:quartz_enriched_iron_nugget",
+    "evolved_resources:refined_glowstone_ingot",
+    "evolved_resources:refined_obsidian_nugget",
+    "evolved_resources:rose_gold_nugget",
+    "evolved_resources:silver_nugget",
+    "evolved_resources:steel_nugget",
+    "evolved_resources:tin_nugget",
+    "evolved_resources:uranium_nugget",
+    "evolved_resources:zinc_nugget"
+  ]
+}

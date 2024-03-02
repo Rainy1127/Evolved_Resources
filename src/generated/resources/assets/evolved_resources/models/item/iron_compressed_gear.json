@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "evolved_resources:item/iron_compressed_gear"
+  }
+}

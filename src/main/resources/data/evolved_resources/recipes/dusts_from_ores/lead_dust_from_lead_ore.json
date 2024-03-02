@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:ores/lead"
+    },
+    {
+      "tag": "forge:hammers"
+    }
+  ],
+  "result": {
+    "item": "evolved_resources:lead_dust",
+    "count": 1
+  },
+  "show_notification": true
+}

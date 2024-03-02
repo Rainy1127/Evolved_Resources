@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_plastic_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "evolved_resources:plastic_plate"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "evolved_resources:plastic_rod"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_plastic_ingot",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "evolved_resources:plastic_rod"
+    ]
+  },
+  "sends_telemetry_event": false
+}

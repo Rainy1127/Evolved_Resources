@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "evolved_resources:copper_nugget"
+    }
+  },
+  "pattern": [
+    " A ",
+    "A A",
+    " A "
+  ],
+  "result": {
+    "item": "evolved_resources:copper_coin"
+  },
+  "show_notification": true
+}

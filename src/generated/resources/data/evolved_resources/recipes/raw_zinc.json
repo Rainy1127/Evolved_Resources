@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "zinc",
+  "key": {
+    "#": {
+      "item": "evolved_resources:raw_zinc"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "evolved_resources:raw_zinc_block"
+  },
+  "show_notification": true
+}

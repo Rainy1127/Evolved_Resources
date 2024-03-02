@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "evolved_resources:andesite_alloy_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "evolved_resources:andesite_alloy_ingot"
+  }
+}

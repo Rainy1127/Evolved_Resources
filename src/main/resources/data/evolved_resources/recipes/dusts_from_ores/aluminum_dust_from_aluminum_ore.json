@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:ores/aluminum"
+    },
+    {
+      "tag": "forge:hammers"
+    }
+  ],
+  "result": {
+    "item": "evolved_resources:aluminum_dust",
+    "count": 1
+  },
+  "show_notification": true
+}

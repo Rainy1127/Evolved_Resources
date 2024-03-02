@@ -1,0 +1,12 @@
+{
+  "values": [
+    "evolved_resources:enriched_uranium",
+    "evolved_resources:enriched_tin",
+    "evolved_resources:enriched_carbon",
+    "evolved_resources:enriched_diamond",
+    "evolved_resources:enriched_gold",
+    "evolved_resources:enriched_iron",
+    "evolved_resources:enriched_redstone",
+    "evolved_resources:enriched_refined_obsidian"
+  ]
+}

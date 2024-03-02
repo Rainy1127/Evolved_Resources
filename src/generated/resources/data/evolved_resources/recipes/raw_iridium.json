@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "iridium",
+  "key": {
+    "#": {
+      "item": "evolved_resources:raw_iridium"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "evolved_resources:raw_iridium_block"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "evolved_resources:andesite_alloy_ingot"
+    }
+  },
+  "pattern": [
+    "   ",
+    " A ",
+    " A "
+  ],
+  "result": {
+    "item": "evolved_resources:andesite_alloy_rod"
+  },
+  "show_notification": true
+}

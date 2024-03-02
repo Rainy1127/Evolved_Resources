@@ -1,0 +1,32 @@
+{
+  "values": [
+    "evolved_resources:aluminum_ore",
+    "evolved_resources:deepslate_aluminum_ore",
+    "evolved_resources:apatite_ore",
+    "evolved_resources:deepslate_apatite_ore",
+    "evolved_resources:cinnabar_ore",
+    "evolved_resources:deepslate_cinnabar_ore",
+    "evolved_resources:iridium_ore",
+    "evolved_resources:deepslate_iridium_ore",
+    "evolved_resources:lead_ore",
+    "evolved_resources:deepslate_lead_ore",
+    "evolved_resources:nickel_ore",
+    "evolved_resources:deepslate_nickel_ore",
+    "evolved_resources:osmium_ore",
+    "evolved_resources:deepslate_osmium_ore",
+    "evolved_resources:platinum_ore",
+    "evolved_resources:deepslate_platinum_ore",
+    "evolved_resources:ruby_ore",
+    "evolved_resources:deepslate_ruby_ore",
+    "evolved_resources:sapphire_ore",
+    "evolved_resources:deepslate_sapphire_ore",
+    "evolved_resources:silver_ore",
+    "evolved_resources:deepslate_silver_ore",
+    "evolved_resources:tin_ore",
+    "evolved_resources:deepslate_tin_ore",
+    "evolved_resources:uranium_ore",
+    "evolved_resources:deepslate_uranium_ore",
+    "evolved_resources:zinc_ore",
+    "evolved_resources:deepslate_zinc_ore"
+  ]
+}

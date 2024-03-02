@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "pattern": [
+    " A ",
+    "A A",
+    " A "
+  ],
+  "result": {
+    "item": "evolved_resources:gold_coin"
+  },
+  "show_notification": true
+}

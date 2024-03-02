@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "nickel",
+  "ingredients": [
+    {
+      "item": "evolved_resources:raw_nickel_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "evolved_resources:raw_nickel"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "evolved_resources:bronze_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "evolved_resources:bronze_nugget"
+  }
+}

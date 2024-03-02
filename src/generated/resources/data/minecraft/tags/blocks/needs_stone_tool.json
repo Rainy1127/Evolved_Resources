@@ -1,0 +1,12 @@
+{
+  "values": [
+    "evolved_resources:silver_ore",
+    "evolved_resources:silver_block",
+    "evolved_resources:raw_silver_block",
+    "evolved_resources:deepslate_silver_ore",
+    "evolved_resources:tin_block",
+    "evolved_resources:tin_ore",
+    "evolved_resources:raw_tin_block",
+    "evolved_resources:deepslate_tin_ore"
+  ]
+}

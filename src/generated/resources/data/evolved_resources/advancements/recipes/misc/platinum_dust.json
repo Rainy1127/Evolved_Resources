@@ -1,0 +1,46 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_hammers": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "forge:hammers"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_platinum_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "evolved_resources:platinum_ingot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "evolved_resources:platinum_dust"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_platinum_ingot",
+      "has_hammers",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "evolved_resources:platinum_dust"
+    ]
+  },
+  "sends_telemetry_event": false
+}

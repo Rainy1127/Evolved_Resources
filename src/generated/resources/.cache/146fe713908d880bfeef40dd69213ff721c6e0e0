@@ -1,0 +1,9 @@
+// 1.20.1	2024-03-02T22:57:28.6776131	Tags for minecraft:block mod id evolved_resources
+1684ac9c6868ba349d64e1eca3c550d9e90e1956 data/forge/tags/blocks/needs_netherite_tool.json
+1e97d41d687920816ea651e6f3807de9bc424983 data/forge/tags/blocks/ores.json
+6cb98b42045a65a93518f17659a57d4dfc48ece0 data/forge/tags/blocks/storage_blocks.json
+22073eedebb2d3b2c86aa0685b299d3395333bb5 data/minecraft/tags/blocks/mineable/hammer.json
+22073eedebb2d3b2c86aa0685b299d3395333bb5 data/minecraft/tags/blocks/mineable/pickaxe.json
+019297e3f58e205156cf715f1df925c7934e4caa data/minecraft/tags/blocks/needs_diamond_tool.json
+6a5282c90e984aedd8a58b9507a58ff340df0c9a data/minecraft/tags/blocks/needs_iron_tool.json
+73e0c6b8e6173b75ab0e547ee3c5ac59207c8617 data/minecraft/tags/blocks/needs_stone_tool.json

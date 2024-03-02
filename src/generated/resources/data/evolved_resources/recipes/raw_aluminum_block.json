@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "aluminum",
+  "ingredients": [
+    {
+      "item": "evolved_resources:raw_aluminum_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "evolved_resources:raw_aluminum"
+  }
+}

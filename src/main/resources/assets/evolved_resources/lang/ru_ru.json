@@ -1,0 +1,443 @@
+  {
+  "block.evolved_resources.platinum_ore": "Платиновая руда",
+  "block.evolved_resources.platinum_block": "Платиновый блок",
+  "block.evolved_resources.raw_platinum_block": "Блок рудной платины",
+  "block.evolved_resources.deepslate_platinum_ore": "Платиноносный глубинный сланец",
+
+  "block.evolved_resources.silver_ore": "Серебряная руда",
+  "block.evolved_resources.silver_block": "Серебряный блок",
+  "block.evolved_resources.raw_silver_block": "Блок рудного серебра",
+  "block.evolved_resources.deepslate_silver_ore": "Сереброносный глубинный сланец",
+
+  "block.evolved_resources.nickel_ore": "Никелевая руда",
+  "block.evolved_resources.nickel_block": "Никелевый блок",
+  "block.evolved_resources.raw_nickel_block": "Блок рудного никеля",
+  "block.evolved_resources.deepslate_nickel_ore": "Никеленосный глубинный сланец",
+
+  "block.evolved_resources.uranium_ore": "Урановая руда",
+  "block.evolved_resources.uranium_block": "Урановый блок",
+  "block.evolved_resources.raw_uranium_block": "Блок рудного урана",
+  "block.evolved_resources.deepslate_uranium_ore": "Ураноносный глубинный сланец",
+
+  "block.evolved_resources.aluminum_ore": "Алюминиевая руда",
+  "block.evolved_resources.aluminum_block": "Алюминиевый блок",
+  "block.evolved_resources.raw_aluminum_block": "Блок рудного алюминия",
+  "block.evolved_resources.deepslate_aluminum_ore": "Алюминиеносный глубинный сланец",
+
+  "block.evolved_resources.lead_ore": "Свинцовая руда",
+  "block.evolved_resources.lead_block": "Свинцовый блок",
+  "block.evolved_resources.raw_lead_block": "Блок рудного свинца",
+  "block.evolved_resources.deepslate_lead_ore": "Свинцовоносный глубинный сланец",
+
+  "block.evolved_resources.ruby_ore": "Рубиновая руда",
+  "block.evolved_resources.ruby_block": "Рубиновый блок",
+  "block.evolved_resources.deepslate_ruby_ore": "Рубиноносный глубинный сланец",
+
+  "block.evolved_resources.sapphire_ore": "Сапфировая руда",
+  "block.evolved_resources.sapphire_block": "Сапфировый блок",
+  "block.evolved_resources.deepslate_sapphire_ore": "Сапфироносный глубинный сланец",
+
+  "block.evolved_resources.osmium_ore": "Осмиевая руда",
+  "block.evolved_resources.osmium_block": "Осмиевый блок",
+  "block.evolved_resources.raw_osmium_block": "Блок рудного осмия",
+  "block.evolved_resources.deepslate_osmium_ore": "Осмиеносный глубинный сланец",
+
+  "block.evolved_resources.tin_ore": "Оловянная руда",
+  "block.evolved_resources.tin_block": "Оловянный блок",
+  "block.evolved_resources.raw_tin_block": "Блок рудного олова",
+  "block.evolved_resources.deepslate_tin_ore": "Оловоносный глубинный сланец",
+
+  "block.evolved_resources.zinc_ore": "Цинковая руда",
+  "block.evolved_resources.zinc_block": "Цинковый блок",
+  "block.evolved_resources.raw_zinc_block": "Блок рудного цинка",
+  "block.evolved_resources.deepslate_zinc_ore": "Цинконосный глубинный сланец",
+
+  "block.evolved_resources.iridium_ore": "Иридиевая руда",
+  "block.evolved_resources.iridium_block": "Иридиевый блок",
+  "block.evolved_resources.raw_iridium_block": "Блок рудного иридия",
+  "block.evolved_resources.deepslate_iridium_ore": "Иридионосный глубинный сланец",
+
+  "block.evolved_resources.neodymium_ore": "Неодимовая руда",
+  "block.evolved_resources.neodymium_block": "Неодимовый блок",
+  "block.evolved_resources.raw_neodymium_block": "Блок рудного неодима",
+  "block.evolved_resources.deepslate_neodymium_ore": "Неодимоносный глубинный сланец",
+
+  "block.evolved_resources.apatite_ore": "Апатитовая руда",
+  "block.evolved_resources.apatite_block": "Апатитовый блок",
+  "block.evolved_resources.deepslate_apatite_ore": "Апатитоносный глубинный сланец",
+
+  "block.evolved_resources.cinnabar_ore": "Киноварная руда",
+  "block.evolved_resources.cinnabar_block": "Киноварный блок",
+  "block.evolved_resources.deepslate_cinnabar_ore": "Киновароносный глубинный сланец",
+
+  "block.evolved_resources.bronze_block": "Бронзовый блок",
+
+  "block.evolved_resources.constantan_block": "Константановый блок",
+
+  "block.evolved_resources.invar_block": "Инваровый блок",
+
+  "block.evolved_resources.signalum_block": "Сигналумовый блок",
+
+  "block.evolved_resources.refined_obsidian_block": "Блок очищенного обсидиана",
+
+  "block.evolved_resources.refined_glowstone_block": "Блок очишенного светокамня",
+
+  "block.evolved_resources.brass_block": "Латунный блок",
+
+  "block.evolved_resources.electrum_block": "Электрумовый блок",
+
+  "block.evolved_resources.enderium_block": "Эндериумовый блок",
+
+  "block.evolved_resources.steel_block": "Стальной блок",
+
+  "block.evolved_resources.andesite_alloy_block": "Блок андезитового сплава",
+
+  "block.evolved_resources.lumium_block": "Люмиевый блок",
+
+  "block.evolved_resources.rose_gold_block": "Блок розового золота",
+
+  "block.evolved_resources.graphite_block": "Графитовый блок",
+
+  "block.evolved_resources.quartz_enriched_iron_block": "Блок обогащённого кварцом железа",
+
+  "block.evolved_resources.iron_compressed_block": "Блок прессованого железа",
+
+  "item.evolved_resources.raw_platinum": "Рудная платина",
+  "item.evolved_resources.platinum_ingot": "Платиновый слиток",
+  "item.evolved_resources.platinum_nugget": "Кусочек платины",
+  "item.evolved_resources.platinum_plate": "Платиновая пластина",
+  "item.evolved_resources.platinum_gear": "Платиновая шестерня",
+  "item.evolved_resources.platinum_dust": "Платиновая пыль",
+  "item.evolved_resources.platinum_coin": "Платиновая монета",
+  "item.evolved_resources.platinum_rod": "Платиновый стержень",
+
+  "item.evolved_resources.raw_silver": "Рудное серебро",
+  "item.evolved_resources.silver_ingot": "Серебряный слиток",
+  "item.evolved_resources.silver_nugget": "Кусочек серебра",
+  "item.evolved_resources.silver_plate": "Серебряная пластина",
+  "item.evolved_resources.silver_gear": "Серебряная шестерня",
+  "item.evolved_resources.silver_dust": "Серебряная пыль",
+  "item.evolved_resources.silver_coin": "Серебряная монета",
+  "item.evolved_resources.silver_rod": "Серебряный стержень",
+
+  "item.evolved_resources.raw_nickel": "Рудный никель",
+  "item.evolved_resources.nickel_ingot": "Никелевый слиток",
+  "item.evolved_resources.nickel_nugget": "Кусочек никеля",
+  "item.evolved_resources.nickel_plate": "Никелевая пластина",
+  "item.evolved_resources.nickel_gear": "Никелевая шестерня",
+  "item.evolved_resources.nickel_dust": "Никелевая пыль",
+  "item.evolved_resources.nickel_coin": "Никелевая монета",
+  "item.evolved_resources.nickel_rod": "Никелевый стержень",
+
+  "item.evolved_resources.raw_uranium": "Рудный уран",
+  "item.evolved_resources.uranium_ingot": "Урановый слиток",
+  "item.evolved_resources.uranium_nugget": "Кусочек урана",
+  "item.evolved_resources.uranium_plate": "Урановая пластина",
+  "item.evolved_resources.uranium_gear": "Урановая шестерня",
+  "item.evolved_resources.uranium_dust": "Урановая пыль",
+  "item.evolved_resources.uranium_coin": "Урановая монета",
+  "item.evolved_resources.uranium_rod": "Урановый стержень",
+
+  "item.evolved_resources.raw_aluminum": "Рудный алюминий",
+  "item.evolved_resources.aluminum_ingot": "Алюминиевый слиток",
+  "item.evolved_resources.aluminum_nugget": "Кусочек алюминия",
+  "item.evolved_resources.aluminum_plate": "Алюминиевая пластина",
+  "item.evolved_resources.aluminum_gear": "Алюминиевая шестерня",
+  "item.evolved_resources.aluminum_dust": "Алюминиевая пыль",
+  "item.evolved_resources.aluminum_coin": "Алюминиевая монета",
+  "item.evolved_resources.aluminum_rod": "Алюминиевый стержень",
+
+  "item.evolved_resources.raw_lead": "Рудный свинец",
+  "item.evolved_resources.lead_ingot": "Свинцовый слиток",
+  "item.evolved_resources.lead_nugget": "Кусочек свинца",
+  "item.evolved_resources.lead_plate": "Свинцовая пластина",
+  "item.evolved_resources.lead_gear": "Свинцовая шестерня",
+  "item.evolved_resources.lead_dust": "Свинцовая пыль",
+  "item.evolved_resources.lead_coin": "Свинцовая монета",
+  "item.evolved_resources.lead_rod": "Свинцовый стержень",
+
+  "item.evolved_resources.ruby": "Рубин",
+  "item.evolved_resources.ruby_plate": "Рубиновая пластина",
+  "item.evolved_resources.ruby_gear": "Рубиновая шестерня",
+  "item.evolved_resources.ruby_dust": "Рубиновая пыль",
+  "item.evolved_resources.ruby_coin": "Рубиновая монета",
+  "item.evolved_resources.ruby_rod": "Рубиновый стержень",
+  "item.evolved_resources.polished_ruby": "Полированный рубин",
+
+  "item.evolved_resources.enriched_uranium": "Обогащённый уран",
+  "item.evolved_resources.enriched_uranium_dust": "Пыль обогащённого урана",
+
+  "item.evolved_resources.sapphire": "Сапфир",
+  "item.evolved_resources.sapphire_plate": "Сапфировая пластина",
+  "item.evolved_resources.sapphire_gear": "Сапфировая шестерня",
+  "item.evolved_resources.sapphire_dust": "Сапфировая пыль",
+  "item.evolved_resources.sapphire_coin": "Сапфировая монета",
+  "item.evolved_resources.sapphire_rod": "Сапфировый стержень",
+  "item.evolved_resources.polished_sapphire": "Полированный сапфир",
+
+  "item.evolved_resources.raw_osmium": "Рудный осмий",
+  "item.evolved_resources.osmium_ingot": "Осмиевый слиток",
+  "item.evolved_resources.osmium_nugget": "Кусочек осмия",
+  "item.evolved_resources.osmium_plate": "Осмиевая пластина",
+  "item.evolved_resources.osmium_gear": "Осмиевая шестерня",
+  "item.evolved_resources.osmium_dust": "Осмиевая пыль",
+  "item.evolved_resources.osmium_coin": "Осмиевая монета",
+  "item.evolved_resources.osmium_rod": "Осмиевый стержень",
+
+  "item.evolved_resources.raw_tin": "Рудное олово",
+  "item.evolved_resources.tin_ingot": "Оловянный слиток",
+  "item.evolved_resources.tin_nugget": "Кусочек олова",
+  "item.evolved_resources.tin_plate": "Оловянная пластина",
+  "item.evolved_resources.tin_gear": "Оловянная шестерня",
+  "item.evolved_resources.tin_dust": "Оловянная пыль",
+  "item.evolved_resources.tin_coin": "Оловянная монета",
+  "item.evolved_resources.tin_rod": "Оловянный стержень",
+
+  "item.evolved_resources.raw_zinc": "Рудный цинк",
+  "item.evolved_resources.zinc_ingot": "Цинковый слиток",
+  "item.evolved_resources.zinc_nugget": "Кусочек цинка",
+  "item.evolved_resources.zinc_plate": "Цинковая пластина",
+  "item.evolved_resources.zinc_gear": "Цинковая шестерня",
+  "item.evolved_resources.zinc_dust": "Цинковая пыль",
+  "item.evolved_resources.zinc_coin": "Цинковая монета",
+  "item.evolved_resources.zinc_rod": "Цинковый стержень",
+
+  "item.evolved_resources.raw_iridium": "Рудный иридий",
+  "item.evolved_resources.iridium_ingot": "Иридиевый слиток",
+  "item.evolved_resources.iridium_nugget": "Кусочек иридия",
+  "item.evolved_resources.iridium_plate": "Иридиевая пластина",
+  "item.evolved_resources.iridium_gear": "Иридиевая шестерня",
+  "item.evolved_resources.iridium_dust": "Иридиевая пыль",
+  "item.evolved_resources.iridium_coin": "Иридиевая монета",
+  "item.evolved_resources.iridium_rod": "Иридиевый стержень",
+
+  "item.evolved_resources.iron_plate": "Железная пластина",
+  "item.evolved_resources.iron_gear": "Железная шестерня",
+  "item.evolved_resources.iron_dust": "Железная пыль",
+  "item.evolved_resources.iron_coin": "Железная монета",
+  "item.evolved_resources.iron_rod": "Железный стержень",
+
+  "item.evolved_resources.copper_nugget": "Кусочек меди",
+  "item.evolved_resources.copper_plate": "Медная пластина",
+  "item.evolved_resources.copper_gear": "Медная шестерня",
+  "item.evolved_resources.copper_dust": "Медная пыль",
+  "item.evolved_resources.copper_coin": "Медная монета",
+  "item.evolved_resources.copper_rod": "Медный стержень",
+
+  "item.evolved_resources.gold_plate": "Золотая пластина",
+  "item.evolved_resources.gold_gear": "Золотая шестерня",
+  "item.evolved_resources.gold_dust": "Золотая пыль",
+  "item.evolved_resources.gold_coin": "Золотая монета",
+  "item.evolved_resources.gold_rod": "Золотой стержень",
+
+  "item.evolved_resources.netherite_nugget": "Кусочек незерита",
+  "item.evolved_resources.netherite_plate": "Незеритовая пластина",
+  "item.evolved_resources.netherite_gear": "Незеритовая шестерня",
+  "item.evolved_resources.netherite_dust": "Незеритовая пыль",
+  "item.evolved_resources.netherite_coin": "Незеритовая монета",
+  "item.evolved_resources.netherite_rod": "Незеритовый стержень",
+
+  "item.evolved_resources.apatite": "Апатит",
+  "item.evolved_resources.apatite_plate": "Апатитовая пластина",
+  "item.evolved_resources.apatite_dust": "Апатитовая пыль",
+  "item.evolved_resources.apatite_coin": "Апатитовая монета",
+  "item.evolved_resources.polished_apatite": "Полированный апатит",
+
+  "item.evolved_resources.cinnabar": "Киноварь",
+  "item.evolved_resources.cinnabar_plate": "Киноварная пластина",
+  "item.evolved_resources.cinnabar_dust": "Киноварная пыль",
+  "item.evolved_resources.cinnabar_coin": "Киноварная монета",
+  "item.evolved_resources.cinnabar_rod": "Киноварный стержень",
+  "item.evolved_resources.polished_cinnabar": "Полированная киноварь",
+
+  "item.evolved_resources.diamond_plate": "Алмазная пластина",
+  "item.evolved_resources.diamond_gear": "Алмазная шестерня",
+  "item.evolved_resources.diamond_dust": "Алмазная пыль",
+  "item.evolved_resources.diamond_coin": "Алмазная монета",
+  "item.evolved_resources.polished_diamond": "Полированный алмаз",
+
+  "item.evolved_resources.emerald_plate": "Изумрудная пластина",
+  "item.evolved_resources.emerald_gear": "Изумрудная шестерня",
+  "item.evolved_resources.emerald_dust": "Изумрудная пыль",
+  "item.evolved_resources.emerald_coin": "Изумрудная монета",
+  "item.evolved_resources.polished_emerald": "Полированный изумруд",
+
+  "item.evolved_resources.lapis_lazuli_plate": "Лазуритовая пластина",
+  "item.evolved_resources.lapis_lazuli_gear": "Лазуритовая шестерня",
+  "item.evolved_resources.lapis_lazuli_dust": "Лазуритовая пыль",
+  "item.evolved_resources.lapis_lazuli_coin": "Лазуритовая монета",
+  "item.evolved_resources.polished_lapis_lazuli": "Полированный лазурит",
+
+  "item.evolved_resources.quartz_plate": "Кварцевая пластина",
+  "item.evolved_resources.quartz_gear": "Кварцевая шестерня",
+  "item.evolved_resources.quartz_dust": "Кварцевая пыль",
+  "item.evolved_resources.quartz_coin": "Кварцевая монета",
+  "item.evolved_resources.polished_quartz": "Полированный кварц",
+
+  "item.evolved_resources.bronze_ingot": "Бронзовый слиток",
+  "item.evolved_resources.bronze_nugget": "Кусочек бронзы",
+  "item.evolved_resources.bronze_plate": "Бронзовая пластина",
+  "item.evolved_resources.bronze_gear": "Бронзовая шестерня",
+  "item.evolved_resources.bronze_dust": "Бронзовая пыль",
+  "item.evolved_resources.bronze_coin": "Бронзовая монета",
+  "item.evolved_resources.bronze_rod": "Бронзовый стержень",
+
+  "item.evolved_resources.constantan_ingot": "Константановый слиток",
+  "item.evolved_resources.constantan_nugget": "Кусочек константана",
+  "item.evolved_resources.constantan_plate": "Константановая пластина",
+  "item.evolved_resources.constantan_gear": "Константановая шестерня",
+  "item.evolved_resources.constantan_dust": "Константановая пыль",
+  "item.evolved_resources.constantan_coin": "Константановая монета",
+  "item.evolved_resources.constantan_rod": "Константановый стержень",
+
+  "item.evolved_resources.invar_ingot": "Инваровый слиток",
+  "item.evolved_resources.invar_nugget": "Кусочек инвара",
+  "item.evolved_resources.invar_plate": "Инваровая пластина",
+  "item.evolved_resources.invar_gear": "Инваровая шестерня",
+  "item.evolved_resources.invar_dust": "Инваровая пыль",
+  "item.evolved_resources.invar_coin": "Инваровая монета",
+  "item.evolved_resources.invar_rod": "Инваровый стержень",
+
+  "item.evolved_resources.signalum_ingot": "Сигналумовый слиток",
+  "item.evolved_resources.signalum_nugget": "Кусочек сигналума",
+  "item.evolved_resources.signalum_plate": "Сигналумовая пластина",
+  "item.evolved_resources.signalum_gear": "Сигналумовая шестерня",
+  "item.evolved_resources.signalum_dust": "Сигналумовая пыль",
+  "item.evolved_resources.signalum_coin": "Сигналумовая монета",
+  "item.evolved_resources.signalum_rod": "Сигналумовый стержень",
+
+  "item.evolved_resources.refined_obsidian_ingot": "Слиток очищенного обсидиана",
+  "item.evolved_resources.refined_obsidian_nugget": "Кусочек очищенного обсидиана",
+  "item.evolved_resources.refined_obsidian_plate": "Пластина из очищенного обсидиана",
+  "item.evolved_resources.refined_obsidian_gear": "Шестерня из очищенного обсидиана",
+  "item.evolved_resources.refined_obsidian_dust": "Пыль очищенного обсидиана",
+  "item.evolved_resources.refined_obsidian_coin": "Монета из очищенного обсидиана",
+  "item.evolved_resources.refined_obsidian_rod": "Стержень из очищенного обсидиана",
+
+  "item.evolved_resources.refined_glowstone_ingot": "Слиток очищенного светокамня",
+  "item.evolved_resources.refined_glowstone_nugget": "Кусочек очищенного светокамня",
+  "item.evolved_resources.refined_glowstone_plate": "Пластина из очищенного светокамня",
+  "item.evolved_resources.refined_glowstone_gear": "Шестерня из очищенного светокамня",
+  "item.evolved_resources.refined_glowstone_dust": "Пыль очищенного светокамня",
+  "item.evolved_resources.refined_glowstone_coin": "Монета из очищенного светокамня",
+  "item.evolved_resources.refined_glowstone_rod": "Стержень из очищенного светокамня",
+
+  "item.evolved_resources.brass_ingot": "Латунный слиток",
+  "item.evolved_resources.brass_nugget": "Кусочек латуни",
+  "item.evolved_resources.brass_plate": "Латунная пластина",
+  "item.evolved_resources.brass_gear": "Латунная шестерня",
+  "item.evolved_resources.brass_dust": "Латунная пыль",
+  "item.evolved_resources.brass_coin": "Латунная монета",
+  "item.evolved_resources.brass_rod": "Латунный стержень",
+
+  "item.evolved_resources.electrum_ingot": "Электрумовый слиток",
+  "item.evolved_resources.electrum_nugget": "Кусочек электрума",
+  "item.evolved_resources.electrum_plate": "Электрумовая пластина",
+  "item.evolved_resources.electrum_gear": "Электрумовая шестерня",
+  "item.evolved_resources.electrum_dust": "Электрумовая пыль",
+  "item.evolved_resources.electrum_coin": "Электрумовая монета",
+  "item.evolved_resources.electrum_rod": "Электрумовый стержень",
+
+  "item.evolved_resources.enderium_ingot": "Эндериумовый слиток",
+  "item.evolved_resources.enderium_nugget": "Кусочек эндериума",
+  "item.evolved_resources.enderium_plate": "Эндериумовая пластина",
+  "item.evolved_resources.enderium_gear": "Эндериумовая шестерня",
+  "item.evolved_resources.enderium_dust": "Эндериумовая пыль",
+  "item.evolved_resources.enderium_coin": "Эндериумовая монета",
+  "item.evolved_resources.enderium_rod": "Эндериумовый стержень",
+
+  "item.evolved_resources.steel_ingot": "Стальной слиток",
+  "item.evolved_resources.steel_nugget": "Кусочек стали",
+  "item.evolved_resources.steel_plate": "Стальная пластина",
+  "item.evolved_resources.steel_gear": "Стальная шестерня",
+  "item.evolved_resources.steel_dust": "Стальная пыль",
+  "item.evolved_resources.steel_coin": "Стальная монета",
+  "item.evolved_resources.steel_rod": "Стальной стержень",
+
+  "item.evolved_resources.andesite_alloy_ingot": "Слиток андезитового сплава",
+  "item.evolved_resources.andesite_alloy_nugget": "Кусочек андезитового сплава",
+  "item.evolved_resources.andesite_alloy_plate": "Пластина из андезитового сплава",
+  "item.evolved_resources.andesite_alloy_gear": "Шестерня из андезитового сплава",
+  "item.evolved_resources.andesite_alloy_dust": "Пыль андезитового сплава",
+  "item.evolved_resources.andesite_alloy_coin": "Монета из андезитового сплава",
+  "item.evolved_resources.andesite_alloy_rod": "Стержень из андезитового сплава",
+
+  "item.evolved_resources.lumium_ingot": "Люмиевый слиток",
+  "item.evolved_resources.lumium_nugget": "Кусочек люмия",
+  "item.evolved_resources.lumium_plate": "Люмиевый пластина",
+  "item.evolved_resources.lumium_gear": "Люмиевая шестерня",
+  "item.evolved_resources.lumium_dust": "Люмиевая пыль",
+  "item.evolved_resources.lumium_coin": "Люмиевая монета",
+  "item.evolved_resources.lumium_rod": "Люмиевый стержень",
+
+  "item.evolved_resources.rose_gold_ingot": "Слиток розового золота",
+  "item.evolved_resources.rose_gold_nugget": "Кусочек розового золота",
+  "item.evolved_resources.rose_gold_plate": "Пластина из розового золота",
+  "item.evolved_resources.rose_gold_gear": "Шестерня из розового золота",
+  "item.evolved_resources.rose_gold_dust": "Пыль розового золота",
+  "item.evolved_resources.rose_gold_coin": "Монета из розового золота",
+  "item.evolved_resources.rose_gold_rod": "Стержень из розового золота",
+
+  "item.evolved_resources.iron_compressed_ingot": "Слиток прессованого железа",
+  "item.evolved_resources.iron_compressed_nugget": "Кусочек прессованого железа",
+  "item.evolved_resources.iron_compressed_plate": "Пластина из прессованого железа",
+  "item.evolved_resources.iron_compressed_gear": "Шестерня из прессованого железа",
+  "item.evolved_resources.iron_compressed_dust": "Пыль прессованого железа",
+  "item.evolved_resources.iron_compressed_coin": "Монета из прессованого железа",
+  "item.evolved_resources.iron_compressed_rod": "Стержень из прессованого железа",
+
+  "item.evolved_resources.graphite_ingot": "Графитовый слиток",
+  "item.evolved_resources.graphite_plate": "Графитовая пластина",
+  "item.evolved_resources.graphite_dust": "Графитовая пыль",
+  "item.evolved_resources.graphite_coin": "Графитовая монета",
+  "item.evolved_resources.graphite_rod": "Графитовый стержень",
+
+  "item.evolved_resources.plastic_plate": "Пластиковая пластина",
+  "item.evolved_resources.plastic_rod": "Пластиковый стержень",
+
+  "item.evolved_resources.quartz_enriched_iron_ingot": "Слиток обогащённого кварцем железа",
+  "item.evolved_resources.quartz_enriched_iron_nugget": "Кусочек обогащённого кварцем железа",
+  "item.evolved_resources.quartz_enriched_iron_plate": "Пластина из обогащённого кварцем железа",
+  "item.evolved_resources.quartz_enriched_iron_gear": "Шестерня из обогащённого кварцем железа",
+  "item.evolved_resources.quartz_enriched_iron_dust": "Пыль обогащённого кварцем железа",
+  "item.evolved_resources.quartz_enriched_iron_coin": "Монета из обогащённого кварцем железа",
+  "item.evolved_resources.quartz_enriched_iron_rod": "Стержень из обогащённого кварцем железа",
+
+  "item.evolved_resources.coal_dust": "Угольная пыль",
+
+  "item.evolved_resources.charcoal_dust": "Пыль древесного угля",
+
+  "item.evolved_resources.obsidian_dust": "Обсидиановая пыль",
+
+  "item.evolved_resources.calcite_dust": "Кальцитовая пыль",
+
+  "item.evolved_resources.prismarine_dust": "Призмариновая пыль",
+
+  "item.evolved_resources.ender_pearl_dust": "Пыль эндер жемчуга",
+
+  "item.evolved_resources.netherack_dust": "Незераковая пыль",
+
+  "item.evolved_resources.amethyst_dust": "Аметистовая пыль",
+
+  "item.evolved_resources.crying_obsidian_dust": "Пыль плачущего обсидиана",
+
+  "item.evolved_resources.end_stone_dust": "Эндерняковая пыль",
+
+  "item.evolved_resources.enriched_tin": "Обогащённое олово",
+  "item.evolved_resources.enriched_carbon": "Обогащённый углерод",
+  "item.evolved_resources.enriched_gold": "Обогащённое золото",
+  "item.evolved_resources.enriched_iron": "Обогащённое железо",
+  "item.evolved_resources.enriched_diamond": "Обогащённый алмаз",
+  "item.evolved_resources.enriched_redstone": "Обогащённая красная пыль",
+   "item.evolved_resources.enriched_refined_obsidian": "Обогащённый обсидиан",
+
+
+  "item.evolved_resources.iron_hammer": "Железный молот",
+  "item.evolved_resources.brass_hammer": "Латунный молот",
+  "item.evolved_resources.steel_hammer": "Стальной молот",
+  "item.evolved_resources.enderium_hammer": "Эндериумовый молот",
+  "item.evolved_resources.osmium_hammer": "Осмиевый молот",
+
+
+  "creativetab.evolved_tab": "Evolved Resources"
+}

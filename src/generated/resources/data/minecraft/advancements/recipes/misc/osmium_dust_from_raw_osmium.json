@@ -1,0 +1,46 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_hammers": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "forge:hammers"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_raw_osmium": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "evolved_resources:raw_osmium"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:osmium_dust_from_raw_osmium"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_raw_osmium",
+      "has_hammers",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:osmium_dust_from_raw_osmium"
+    ]
+  },
+  "sends_telemetry_event": false
+}

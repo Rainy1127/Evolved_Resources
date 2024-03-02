@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "evolved_resources:enriched_uranium"
+    },
+    {
+      "tag": "forge:hammers"
+    }
+  ],
+  "result": {
+    "item": "evolved_resources:enriched_uranium_dust"
+  }
+}

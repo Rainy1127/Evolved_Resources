@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "lead",
+  "key": {
+    "#": {
+      "item": "evolved_resources:raw_lead"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "evolved_resources:raw_lead_block"
+  },
+  "show_notification": true
+}

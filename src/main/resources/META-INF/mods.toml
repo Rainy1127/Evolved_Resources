@@ -1,0 +1,40 @@
+
+modLoader="javafml"
+
+loaderVersion="${loader_version_range}"
+
+license="MIT"
+
+[[mods]]
+
+modId="evolved_resources"
+
+version="1.1.1"
+
+displayName="Evolved Resources"
+
+authors="IndEvo Studio"
+
+
+description='''Mod created to unify ores, alloys and materials from different mods for Modpacks.'''
+
+[[dependencies.evolved_resources]]
+
+modId="forge"
+
+mandatory=true
+
+versionRange="${forge_version_range}"
+
+ordering="NONE"
+
+side="BOTH"
+
+[[dependencies.evolved_resources]]
+modId="minecraft"
+mandatory=true
+
+versionRange="${minecraft_version_range}"
+ordering="NONE"
+side="BOTH"
+

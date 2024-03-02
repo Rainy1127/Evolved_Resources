@@ -1,0 +1,17 @@
+{
+  "values": [
+    "evolved_resources:nickel_block",
+    "evolved_resources:nickel_ore",
+    "evolved_resources:raw_nickel_block",
+    "evolved_resources:deepslate_nickel_ore",
+    "evolved_resources:uranium_ore",
+    "evolved_resources:uranium_block",
+    "evolved_resources:raw_uranium_block",
+    "evolved_resources:deepslate_uranium_ore",
+    "evolved_resources:constantan_block",
+    "evolved_resources:iron_compressed_block",
+    "evolved_resources:invar_block",
+    "evolved_resources:signalum_block",
+    "evolved_resources:enderium_block"
+  ]
+}

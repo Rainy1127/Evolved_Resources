@@ -1,0 +1,18 @@
+{
+  "values": [
+    "evolved_resources:platinum_block",
+    "evolved_resources:platinum_ore",
+    "evolved_resources:raw_platinum_block",
+    "evolved_resources:deepslate_platinum_ore",
+    "evolved_resources:osmium_block",
+    "evolved_resources:osmium_ore",
+    "evolved_resources:raw_osmium_block",
+    "evolved_resources:deepslate_osmium_ore",
+    "evolved_resources:iridium_block",
+    "evolved_resources:iridium_ore",
+    "evolved_resources:raw_iridium_block",
+    "evolved_resources:deepslate_iridium_ore",
+    "evolved_resources:refined_glowstone_block",
+    "evolved_resources:refined_obsidian_block"
+  ]
+}

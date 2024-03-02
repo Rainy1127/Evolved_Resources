@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "nickel",
+  "key": {
+    "#": {
+      "item": "evolved_resources:raw_nickel"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "evolved_resources:raw_nickel_block"
+  },
+  "show_notification": true
+}

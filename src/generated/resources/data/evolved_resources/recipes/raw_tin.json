@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "tin",
+  "key": {
+    "#": {
+      "item": "evolved_resources:raw_tin"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "evolved_resources:raw_tin_block"
+  },
+  "show_notification": true
+}

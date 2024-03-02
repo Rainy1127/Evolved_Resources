@@ -1,0 +1,442 @@
+{
+  "block.evolved_resources.platinum_ore": "Platinum Ore",
+  "block.evolved_resources.platinum_block": "Platinum Block",
+  "block.evolved_resources.raw_platinum_block": "Raw Platinum Block",
+  "block.evolved_resources.deepslate_platinum_ore": "Deepslate Platinum Ore",
+
+  "block.evolved_resources.silver_ore": "Silver Ore",
+  "block.evolved_resources.silver_block": "Silver Block",
+  "block.evolved_resources.raw_silver_block": "Raw Silver Block",
+  "block.evolved_resources.deepslate_silver_ore": "Deepslate Silver Ore",
+
+  "block.evolved_resources.nickel_ore": "Nickel Ore",
+  "block.evolved_resources.nickel_block": "Nickel Block",
+  "block.evolved_resources.raw_nickel_block": "Raw Nickel Block",
+  "block.evolved_resources.deepslate_nickel_ore": "Deepslate Nickel Ore",
+
+  "block.evolved_resources.uranium_ore": "Uranium Ore",
+  "block.evolved_resources.uranium_block": "Uranium Block",
+  "block.evolved_resources.raw_uranium_block": "Raw Uranium Block",
+  "block.evolved_resources.deepslate_uranium_ore": "Deepslate Uranium Ore",
+
+  "block.evolved_resources.aluminum_ore": "Aluminum Ore",
+  "block.evolved_resources.aluminum_block": "Aluminum Block",
+  "block.evolved_resources.raw_aluminum_block": "Raw Aluminum Block",
+  "block.evolved_resources.deepslate_aluminum_ore": "Deepslate Aluminum Ore",
+
+  "block.evolved_resources.lead_ore": "Lead Ore",
+  "block.evolved_resources.lead_block": "Lead Block",
+  "block.evolved_resources.raw_lead_block": "Raw Lead Block",
+  "block.evolved_resources.deepslate_lead_ore": "Deepslate Lead Ore",
+
+  "block.evolved_resources.ruby_ore": "Ruby Ore",
+  "block.evolved_resources.ruby_block": "Ruby Block",
+  "block.evolved_resources.deepslate_ruby_ore": "Deepslate Ruby Ore",
+
+  "block.evolved_resources.sapphire_ore": "Sapphire Ore",
+  "block.evolved_resources.sapphire_block": "Sapphire Block",
+  "block.evolved_resources.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+
+  "block.evolved_resources.osmium_ore": "Osmium Ore",
+  "block.evolved_resources.osmium_block": "Osmium Block",
+  "block.evolved_resources.raw_osmium_block": "Raw Osmium Block",
+  "block.evolved_resources.deepslate_osmium_ore": "Deepslate Osmium Ore",
+
+  "block.evolved_resources.tin_ore": "Tin Ore",
+  "block.evolved_resources.tin_block": "Tin Block",
+  "block.evolved_resources.raw_tin_block": "Raw Tin Block",
+  "block.evolved_resources.deepslate_tin_ore": "Deepslate Tin Ore",
+
+  "block.evolved_resources.zinc_ore": "Zinc Ore",
+  "block.evolved_resources.zinc_block": "Zinc Block",
+  "block.evolved_resources.raw_zinc_block": "Raw Zinc Block",
+  "block.evolved_resources.deepslate_zinc_ore": "Deepslate Zinc Ore",
+
+  "block.evolved_resources.iridium_ore": "Iridium Ore",
+  "block.evolved_resources.iridium_block": "Iridium Block",
+  "block.evolved_resources.raw_iridium_block": "Raw Iridium Block",
+  "block.evolved_resources.deepslate_iridium_ore": "Deepslate Iridium Ore",
+
+  "block.evolved_resources.neodymium_ore": "Neodymium Ore",
+  "block.evolved_resources.neodymium_block": "Neodymium Block",
+  "block.evolved_resources.raw_neodymium_block": "Raw Neodymium Block",
+  "block.evolved_resources.deepslate_neodymium_ore": "Deepslate Neodymium Ore",
+
+  "block.evolved_resources.apatite_ore": "Apatite Ore",
+  "block.evolved_resources.apatite_block": "Apatite Block",
+  "block.evolved_resources.deepslate_apatite_ore": "Deepslate Apatite Ore",
+
+  "block.evolved_resources.cinnabar_ore": "Cinnabar Ore",
+  "block.evolved_resources.cinnabar_block": "Cinnabar Block",
+  "block.evolved_resources.deepslate_cinnabar_ore": "Deepslate Cinnabar Ore",
+
+  "block.evolved_resources.bronze_block": "Bronze Block",
+
+  "block.evolved_resources.constantan_block": "Constantan Block",
+
+  "block.evolved_resources.invar_block": "Invar Block",
+
+  "block.evolved_resources.signalum_block": "Signalum Block",
+
+  "block.evolved_resources.refined_obsidian_block": "Refined Obsidian Block",
+
+  "block.evolved_resources.refined_glowstone_block": "Refined Glowstone Block",
+
+  "block.evolved_resources.brass_block": "Brass Block",
+
+  "block.evolved_resources.electrum_block": "Electrum Block",
+
+  "block.evolved_resources.enderium_block": "Enderium Block",
+
+  "block.evolved_resources.steel_block": "Steel Block",
+
+  "block.evolved_resources.andesite_alloy_block": "Andesite Alloy Block",
+
+  "block.evolved_resources.lumium_block": "Lumium Block",
+
+  "block.evolved_resources.rose_gold_block": "Rose Gold Block",
+
+  "block.evolved_resources.graphite_block": "Graphite Block",
+
+  "block.evolved_resources.quartz_enriched_iron_block": "Quartz Enriched Iron Block",
+
+  "block.evolved_resources.iron_compressed_block": "Iron Compressed Block",
+
+  "item.evolved_resources.raw_platinum": "Raw Platinum",
+  "item.evolved_resources.platinum_ingot": "Platinum Ingot",
+  "item.evolved_resources.platinum_nugget": "Platinum Nugget",
+  "item.evolved_resources.platinum_plate": "Platinum Plate",
+  "item.evolved_resources.platinum_gear": "Platinum Gear",
+  "item.evolved_resources.platinum_dust": "Platinum Dust",
+  "item.evolved_resources.platinum_coin": "Platinum Coin",
+  "item.evolved_resources.platinum_rod": "Platinum Rod",
+
+  "item.evolved_resources.raw_silver": "Raw Silver",
+  "item.evolved_resources.silver_ingot": "Silver Ingot",
+  "item.evolved_resources.silver_nugget": "Silver Nugget",
+  "item.evolved_resources.silver_plate": "Silver Plate",
+  "item.evolved_resources.silver_gear": "Silver Gear",
+  "item.evolved_resources.silver_dust": "Silver Dust",
+  "item.evolved_resources.silver_coin": "Silver Coin",
+  "item.evolved_resources.silver_rod": "Silver Rod",
+
+  "item.evolved_resources.raw_nickel": "Raw Nickel",
+  "item.evolved_resources.nickel_ingot": "Nickel Ingot",
+  "item.evolved_resources.nickel_nugget": "Nickel Nugget",
+  "item.evolved_resources.nickel_plate": "Nickel Plate",
+  "item.evolved_resources.nickel_gear": "Nickel Gear",
+  "item.evolved_resources.nickel_dust": "Nickel Dust",
+  "item.evolved_resources.nickel_coin": "Nickel Coin",
+  "item.evolved_resources.nickel_rod": "Nickel Rod",
+
+  "item.evolved_resources.raw_uranium": "Raw Uranium",
+  "item.evolved_resources.uranium_ingot": "Uranium Ingot",
+  "item.evolved_resources.uranium_nugget": "Uranium Nugget",
+  "item.evolved_resources.uranium_plate": "Uranium Plate",
+  "item.evolved_resources.uranium_gear": "Uranium Gear",
+  "item.evolved_resources.uranium_dust": "Uranium Dust",
+  "item.evolved_resources.uranium_coin": "Uranium Coin",
+  "item.evolved_resources.uranium_rod": "Uranium Rod",
+
+  "item.evolved_resources.raw_aluminum": "Raw Aluminum",
+  "item.evolved_resources.aluminum_ingot": "Aluminum Ingot",
+  "item.evolved_resources.aluminum_nugget": "Aluminum Nugget",
+  "item.evolved_resources.aluminum_plate": "Aluminum Plate",
+  "item.evolved_resources.aluminum_gear": "Aluminum Gear",
+  "item.evolved_resources.aluminum_dust": "Aluminum Dust",
+  "item.evolved_resources.aluminum_coin": "Aluminum Coin",
+  "item.evolved_resources.aluminum_rod": "Aluminum Rod",
+
+  "item.evolved_resources.raw_lead": "Raw Lead",
+  "item.evolved_resources.lead_ingot": "Lead Ingot",
+  "item.evolved_resources.lead_nugget": "Lead Nugget",
+  "item.evolved_resources.lead_plate": "Lead Plate",
+  "item.evolved_resources.lead_gear": "Lead Gear",
+  "item.evolved_resources.lead_dust": "Lead Dust",
+  "item.evolved_resources.lead_coin": "Lead Coin",
+  "item.evolved_resources.lead_rod": "Lead Rod",
+
+  "item.evolved_resources.ruby": "Ruby",
+  "item.evolved_resources.ruby_plate": "Ruby Plate",
+  "item.evolved_resources.ruby_gear": "Ruby Gear",
+  "item.evolved_resources.ruby_dust": "Ruby Dust",
+  "item.evolved_resources.ruby_coin": "Ruby Coin",
+  "item.evolved_resources.ruby_rod": "Ruby Rod",
+  "item.evolved_resources.polished_ruby": "Polished Ruby",
+
+  "item.evolved_resources.enriched_uranium": "Enriched Uranium",
+  "item.evolved_resources.enriched_uranium_dust": "Enriched Uranium Dust",
+
+  "item.evolved_resources.sapphire": "Sapphire",
+  "item.evolved_resources.sapphire_plate": "Sapphire Plate",
+  "item.evolved_resources.sapphire_gear": "Sapphire Gear",
+  "item.evolved_resources.sapphire_dust": "Sapphire Dust",
+  "item.evolved_resources.sapphire_coin": "Sapphire Coin",
+  "item.evolved_resources.sapphire_rod": "Sapphire Rod",
+  "item.evolved_resources.polished_sapphire": "Polished Sapphire",
+
+  "item.evolved_resources.raw_osmium": "Raw Osmium",
+  "item.evolved_resources.osmium_ingot": "Osmium Ingot",
+  "item.evolved_resources.osmium_nugget": "Osmium Nugget",
+  "item.evolved_resources.osmium_plate": "Osmium Plate",
+  "item.evolved_resources.osmium_gear": "Osmium Gear",
+  "item.evolved_resources.osmium_dust": "Osmium Dust",
+  "item.evolved_resources.osmium_coin": "Osmium Coin",
+  "item.evolved_resources.osmium_rod": "Osmium Rod",
+
+  "item.evolved_resources.raw_tin": "Raw Tin",
+  "item.evolved_resources.tin_ingot": "Tin Ingot",
+  "item.evolved_resources.tin_nugget": "Tin Nugget",
+  "item.evolved_resources.tin_plate": "Tin Plate",
+  "item.evolved_resources.tin_gear": "Tin Gear",
+  "item.evolved_resources.tin_dust": "Tin Dust",
+  "item.evolved_resources.tin_coin": "Tin Coin",
+  "item.evolved_resources.tin_rod": "Tin Rod",
+
+  "item.evolved_resources.raw_zinc": "Raw Zinc",
+  "item.evolved_resources.zinc_ingot": "Zinc Ingot",
+  "item.evolved_resources.zinc_nugget": "Zinc Nugget",
+  "item.evolved_resources.zinc_plate": "Zinc Plate",
+  "item.evolved_resources.zinc_gear": "Zinc Gear",
+  "item.evolved_resources.zinc_dust": "Zinc Dust",
+  "item.evolved_resources.zinc_coin": "Zinc Coin",
+  "item.evolved_resources.zinc_rod": "Zinc Rod",
+
+  "item.evolved_resources.raw_iridium": "Raw Iridium",
+  "item.evolved_resources.iridium_ingot": "Iridium Ingot",
+  "item.evolved_resources.iridium_nugget": "Iridium Nugget",
+  "item.evolved_resources.iridium_plate": "Iridium Plate",
+  "item.evolved_resources.iridium_gear": "Iridium Gear",
+  "item.evolved_resources.iridium_dust": "Iridium Dust",
+  "item.evolved_resources.iridium_coin": "Iridium Coin",
+  "item.evolved_resources.iridium_rod": "Iridium Rod",
+
+  "item.evolved_resources.iron_plate": "Iron Plate",
+  "item.evolved_resources.iron_gear": "Iron Gear",
+  "item.evolved_resources.iron_dust": "Iron Dust",
+  "item.evolved_resources.iron_coin": "Iron Coin",
+  "item.evolved_resources.iron_rod": "Iron Rod",
+
+  "item.evolved_resources.copper_nugget": "Copper Nugget",
+  "item.evolved_resources.copper_plate": "Copper Plate",
+  "item.evolved_resources.copper_gear": "Copper Gear",
+  "item.evolved_resources.copper_dust": "Copper Dust",
+  "item.evolved_resources.copper_coin": "Copper Coin",
+  "item.evolved_resources.copper_rod": "Copper Rod",
+
+  "item.evolved_resources.gold_plate": "Gold Plate",
+  "item.evolved_resources.gold_gear": "Gold Gear",
+  "item.evolved_resources.gold_dust": "Gold Dust",
+  "item.evolved_resources.gold_coin": "Gold Coin",
+  "item.evolved_resources.gold_rod": "Gold Rod",
+
+  "item.evolved_resources.netherite_nugget": "Netherite Nugget",
+  "item.evolved_resources.netherite_plate": "Netherite Plate",
+  "item.evolved_resources.netherite_gear": "Netherite Gear",
+  "item.evolved_resources.netherite_dust": "Netherite Dust",
+  "item.evolved_resources.netherite_coin": "Netherite Coin",
+  "item.evolved_resources.netherite_rod": "Netherite Rod",
+
+  "item.evolved_resources.apatite": "Apatite",
+  "item.evolved_resources.apatite_plate": "Apatite Plate",
+  "item.evolved_resources.apatite_dust": "Apatite Dust",
+  "item.evolved_resources.apatite_coin": "Apatite Coin",
+  "item.evolved_resources.polished_apatite": "Polished Apatite",
+
+  "item.evolved_resources.cinnabar": "Cinnabar",
+  "item.evolved_resources.cinnabar_plate": "Cinnabar Plate",
+  "item.evolved_resources.cinnabar_dust": "Cinnabar Dust",
+  "item.evolved_resources.cinnabar_coin": "Cinnabar Coin",
+  "item.evolved_resources.cinnabar_rod": "Cinnabar Rod",
+  "item.evolved_resources.polished_cinnabar": "Polished Cinnabar",
+
+  "item.evolved_resources.diamond_plate": "Diamond Plate",
+  "item.evolved_resources.diamond_gear": "Diamond Gear",
+  "item.evolved_resources.diamond_dust": "Diamond Dust",
+  "item.evolved_resources.diamond_coin": "Diamond Coin",
+  "item.evolved_resources.polished_diamond": "Polished Diamond",
+
+  "item.evolved_resources.emerald_plate": "Emerald Plate",
+  "item.evolved_resources.emerald_gear": "Emerald Gear",
+  "item.evolved_resources.emerald_dust": "Emerald Dust",
+  "item.evolved_resources.emerald_coin": "Emerald Coin",
+  "item.evolved_resources.polished_emerald": "Polished Emerald",
+
+  "item.evolved_resources.lapis_lazuli_plate": "Lapis Lazuli Plate",
+  "item.evolved_resources.lapis_lazuli_gear": "Lapis Lazuli Gear",
+  "item.evolved_resources.lapis_lazuli_dust": "Lapis Lazuli Dust",
+  "item.evolved_resources.lapis_lazuli_coin": "Lapis Lazuli Coin",
+  "item.evolved_resources.polished_lapis_lazuli": "Polished Lapis Lazuli",
+
+  "item.evolved_resources.quartz_plate": "Quartz Plate",
+  "item.evolved_resources.quartz_gear": "Quartz Gear",
+  "item.evolved_resources.quartz_dust": "Quartz Dust",
+  "item.evolved_resources.quartz_coin": "Quartz Coin",
+  "item.evolved_resources.polished_quartz": "Polished Quartz",
+
+  "item.evolved_resources.bronze_ingot": "Bronze Ingot",
+  "item.evolved_resources.bronze_nugget": "Bronze Nugget",
+  "item.evolved_resources.bronze_plate": "Bronze Plate",
+  "item.evolved_resources.bronze_gear": "Bronze Gear",
+  "item.evolved_resources.bronze_dust": "Bronze Dust",
+  "item.evolved_resources.bronze_coin": "Bronze Coin",
+  "item.evolved_resources.bronze_rod": "Bronze Rod",
+
+  "item.evolved_resources.constantan_ingot": "Constantan Ingot",
+  "item.evolved_resources.constantan_nugget": "Constantan Nugget",
+  "item.evolved_resources.constantan_plate": "Constantan Plate",
+  "item.evolved_resources.constantan_gear": "Constantan Gear",
+  "item.evolved_resources.constantan_dust": "Constantan Dust",
+  "item.evolved_resources.constantan_coin": "Constantan Coin",
+  "item.evolved_resources.constantan_rod": "Constantan Rod",
+
+  "item.evolved_resources.invar_ingot": "Invar Ingot",
+  "item.evolved_resources.invar_nugget": "Invar Nugget",
+  "item.evolved_resources.invar_plate": "Invar Plate",
+  "item.evolved_resources.invar_gear": "Invar Gear",
+  "item.evolved_resources.invar_dust": "Invar Dust",
+  "item.evolved_resources.invar_coin": "Invar Coin",
+  "item.evolved_resources.invar_rod": "Invar Rod",
+
+  "item.evolved_resources.signalum_ingot": "Signalum Ingot",
+  "item.evolved_resources.signalum_nugget": "Signalum Nugget",
+  "item.evolved_resources.signalum_plate": "Signalum Plate",
+  "item.evolved_resources.signalum_gear": "Signalum Gear",
+  "item.evolved_resources.signalum_dust": "Signalum Dust",
+  "item.evolved_resources.signalum_coin": "Signalum Coin",
+  "item.evolved_resources.signalum_rod": "Signalum Rod",
+
+  "item.evolved_resources.refined_obsidian_ingot": "Refined Obsidian Ingot",
+  "item.evolved_resources.refined_obsidian_nugget": "Refined Obsidian Nugget",
+  "item.evolved_resources.refined_obsidian_plate": "Refined Obsidian Plate",
+  "item.evolved_resources.refined_obsidian_gear": "Refined Obsidian Gear",
+  "item.evolved_resources.refined_obsidian_dust": "Refined Obsidian Dust",
+  "item.evolved_resources.refined_obsidian_coin": "Refined Obsidian Coin",
+  "item.evolved_resources.refined_obsidian_rod": "Refined Obsidian Rod",
+
+  "item.evolved_resources.refined_glowstone_ingot": "Refined Glowstone Ingot",
+  "item.evolved_resources.refined_glowstone_nugget": "Refined Glowstone Nugget",
+  "item.evolved_resources.refined_glowstone_plate": "Refined Glowstone Plate",
+  "item.evolved_resources.refined_glowstone_gear": "Refined Glowstone Gear",
+  "item.evolved_resources.refined_glowstone_dust": "Refined Glowstone Dust",
+  "item.evolved_resources.refined_glowstone_coin": "Refined Glowstone Coin",
+  "item.evolved_resources.refined_glowstone_rod": "Refined Glowstone Rod",
+
+  "item.evolved_resources.brass_ingot": "Brass Ingot",
+  "item.evolved_resources.brass_nugget": "Brass Nugget",
+  "item.evolved_resources.brass_plate": "Brass Plate",
+  "item.evolved_resources.brass_gear": "Brass Gear",
+  "item.evolved_resources.brass_dust": "Brass Dust",
+  "item.evolved_resources.brass_coin": "Brass Coin",
+  "item.evolved_resources.brass_rod": "Brass Rod",
+
+  "item.evolved_resources.electrum_ingot": "Electrum Ingot",
+  "item.evolved_resources.electrum_nugget": "Electrum Nugget",
+  "item.evolved_resources.electrum_plate": "Electrum Plate",
+  "item.evolved_resources.electrum_gear": "Electrum Gear",
+  "item.evolved_resources.electrum_dust": "Electrum Dust",
+  "item.evolved_resources.electrum_coin": "Electrum Coin",
+  "item.evolved_resources.electrum_rod": "Electrum Rod",
+
+  "item.evolved_resources.enderium_ingot": "Enderium Ingot",
+  "item.evolved_resources.enderium_nugget": "Enderium Nugget",
+  "item.evolved_resources.enderium_plate": "Enderium Plate",
+  "item.evolved_resources.enderium_gear": "Enderium Gear",
+  "item.evolved_resources.enderium_dust": "Enderium Dust",
+  "item.evolved_resources.enderium_coin": "Enderium Coin",
+  "item.evolved_resources.enderium_rod": "Enderium Rod",
+
+  "item.evolved_resources.steel_ingot": "Steel Ingot",
+  "item.evolved_resources.steel_nugget": "Steel Nugget",
+  "item.evolved_resources.steel_plate": "Steel Plate",
+  "item.evolved_resources.steel_gear": "Steel Gear",
+  "item.evolved_resources.steel_dust": "Steel Dust",
+  "item.evolved_resources.steel_coin": "Steel Coin",
+  "item.evolved_resources.steel_rod": "Steel Rod",
+
+  "item.evolved_resources.andesite_alloy_ingot": "Andesite Alloy Ingot",
+  "item.evolved_resources.andesite_alloy_nugget": "Andesite Alloy Nugget",
+  "item.evolved_resources.andesite_alloy_plate": "Andesite Alloy Plate",
+  "item.evolved_resources.andesite_alloy_gear": "Andesite Alloy Gear",
+  "item.evolved_resources.andesite_alloy_dust": "Andesite Alloy Dust",
+  "item.evolved_resources.andesite_alloy_coin": "Andesite Alloy Coin",
+  "item.evolved_resources.andesite_alloy_rod": "Andesite Alloy Rod",
+
+  "item.evolved_resources.lumium_ingot": "Lumium Ingot",
+  "item.evolved_resources.lumium_nugget": "Lumium Nugget",
+  "item.evolved_resources.lumium_plate": "Lumium Plate",
+  "item.evolved_resources.lumium_gear": "Lumium Gear",
+  "item.evolved_resources.lumium_dust": "Lumium Dust",
+  "item.evolved_resources.lumium_coin": "Lumium Coin",
+  "item.evolved_resources.lumium_rod": "Lumium Rod",
+
+  "item.evolved_resources.rose_gold_ingot": "Rose Gold Ingot",
+  "item.evolved_resources.rose_gold_nugget": "Rose Gold Nugget",
+  "item.evolved_resources.rose_gold_plate": "Rose Gold Plate",
+  "item.evolved_resources.rose_gold_gear":  "Rose Gold Gear",
+  "item.evolved_resources.rose_gold_dust": "Rose Gold Dust",
+  "item.evolved_resources.rose_gold_coin": "Rose Gold Coin",
+  "item.evolved_resources.rose_gold_rod": "Rose Gold Rod",
+
+  "item.evolved_resources.iron_compressed_ingot": "Iron Compressed Ingot",
+  "item.evolved_resources.iron_compressed_nugget": "Iron Compressed Nugget",
+  "item.evolved_resources.iron_compressed_plate": "Iron Compressed Plate",
+  "item.evolved_resources.iron_compressed_gear":  "Iron Compressed Gear",
+  "item.evolved_resources.iron_compressed_dust": "Iron Compressed Dust",
+  "item.evolved_resources.iron_compressed_coin": "Iron Compressed Coin",
+  "item.evolved_resources.iron_compressed_rod": "Iron Compressed Rod",
+
+  "item.evolved_resources.graphite_ingot": "Graphite Ingot",
+  "item.evolved_resources.graphite_plate": "Graphite Plate",
+  "item.evolved_resources.graphite_dust": "Graphite Dust",
+  "item.evolved_resources.graphite_coin": "Graphite Coin",
+  "item.evolved_resources.graphite_rod": "Graphite Rod",
+
+  "item.evolved_resources.plastic_plate": "Plastic Plate",
+  "item.evolved_resources.plastic_rod": "Plastic Rod",
+
+  "item.evolved_resources.quartz_enriched_iron_ingot": "Quartz Enriched Iron Ingot",
+  "item.evolved_resources.quartz_enriched_iron_nugget": "Quartz Enriched Iron Nugget",
+  "item.evolved_resources.quartz_enriched_iron_plate": "Quartz Enriched Iron Plate",
+  "item.evolved_resources.quartz_enriched_iron_gear": "Quartz Enriched Iron Gear",
+  "item.evolved_resources.quartz_enriched_iron_dust": "Quartz Enriched Iron Dust",
+  "item.evolved_resources.quartz_enriched_iron_coin": "Quartz Enriched Iron Coin",
+  "item.evolved_resources.quartz_enriched_iron_rod": "Quartz Enriched Iron Rod",
+
+  "item.evolved_resources.coal_dust": "Coal Dust",
+
+  "item.evolved_resources.charcoal_dust": "Charcoal Dust",
+
+  "item.evolved_resources.obsidian_dust": "Obsidian Dust",
+
+  "item.evolved_resources.calcite_dust": "Calcite Dust",
+
+  "item.evolved_resources.prismarine_dust": "Prismarine Dust",
+
+  "item.evolved_resources.ender_pearl_dust": "Ender Pearl Dust",
+
+  "item.evolved_resources.netherack_dust": "Netherack Dust",
+
+  "item.evolved_resources.amethyst_dust": "Amethyst Dust",
+
+  "item.evolved_resources.crying_obsidian_dust": "Crying Obsidian Dust",
+
+  "item.evolved_resources.end_stone_dust": "End Stone Dust",
+
+  "item.evolved_resources.enriched_tin": "Enriched Tin",
+  "item.evolved_resources.enriched_carbon": "Enriched Coal",
+  "item.evolved_resources.enriched_gold": "Enriched Gold",
+  "item.evolved_resources.enriched_iron": "Enriched Iron",
+  "item.evolved_resources.enriched_diamond": "Enriched Diamond",
+  "item.evolved_resources.enriched_redstone": "Enriched Redstone",
+  "item.evolved_resources.enriched_refined_obsidian": "Enriched Refined Obsidian",
+
+  "item.evolved_resources.iron_hammer": "Iron Hammer",
+  "item.evolved_resources.brass_hammer": "Brass Hammer",
+  "item.evolved_resources.steel_hammer": "Steel Hammer",
+  "item.evolved_resources.enderium_hammer": "Enderium Hammer",
+  "item.evolved_resources.osmium_hammer": "Osmium Hammer",
+
+
+  "creativetab.evolved_tab": "Evolved Resources"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "apatite",
+  "ingredient": {
+    "item": "evolved_resources:apatite_ore"
+  },
+  "result": "evolved_resources:apatite"
+}
