@@ -415,7 +415,7 @@
 
   "item.evolved_resources.ender_pearl_dust": "Ender Pearl Dust",
 
-  "item.evolved_resources.netherack_dust": "Netherack Dust",
+  "item.evolved_resources.netherrack_dust": "Netherrack Dust",
 
   "item.evolved_resources.amethyst_dust": "Amethyst Dust",
 
@@ -433,7 +433,6 @@
 
   "item.evolved_resources.iron_hammer": "Iron Hammer",
   "item.evolved_resources.brass_hammer": "Brass Hammer",
-  "item.evolved_resources.steel_hammer": "Steel Hammer",
   "item.evolved_resources.enderium_hammer": "Enderium Hammer",
   "item.evolved_resources.osmium_hammer": "Osmium Hammer",
 

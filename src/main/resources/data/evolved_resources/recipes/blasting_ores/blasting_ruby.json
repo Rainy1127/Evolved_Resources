@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "tag": "forge:ores/ruby"
+    }
+  ],
+  "result": "evolved_resources:ruby",
+  "experience": 0.7,
+  "cookingtime": 100
+}

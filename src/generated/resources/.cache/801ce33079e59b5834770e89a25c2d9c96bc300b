@@ -1,4 +1,4 @@
-// 1.20.1	2024-03-02T22:57:28.6726261	Item Models: evolved_resources
+// 1.20.1	2024-03-07T21:56:31.9679812	Item Models: evolved_resources
 bfa45ce65a2c9557705d6fe8b1d0d9813b79a5b2 assets/evolved_resources/models/item/aluminum_coin.json
 61ea379e27fd8a0dd2c732bb9f7c6576268340b7 assets/evolved_resources/models/item/aluminum_dust.json
 ffe7d9d2489e78f09097f06355a1e498282be6bc assets/evolved_resources/models/item/aluminum_gear.json
@@ -144,13 +144,13 @@ b721423a3de417eea1552dbb80280abad6097470 assets/evolved_resources/models/item/lu
 e4f0ca8e9ec13e72660968720ad0b292bade4e01 assets/evolved_resources/models/item/lumium_nugget.json
 5ca1f5972d447f0dd3dd834ea8c48ee9eae9e86b assets/evolved_resources/models/item/lumium_plate.json
 6be1599e0fe1756c0f66bc3acdc327e91aac1a34 assets/evolved_resources/models/item/lumium_rod.json
-17f1ac324821dc00e33eb3201c360e7c0fb2d607 assets/evolved_resources/models/item/netherack_dust.json
 130bd8719a736a471c97182151c24e78c57c4e05 assets/evolved_resources/models/item/netherite_coin.json
 3412afb9adedbcfe720e4d4befec56f41dbacd22 assets/evolved_resources/models/item/netherite_dust.json
 cccc0048b75f95ea92b68950a1f79f1b0b754709 assets/evolved_resources/models/item/netherite_gear.json
 392f3354f8baff04489458f3e42cde5120aa16b3 assets/evolved_resources/models/item/netherite_nugget.json
 2772d28c7ebd93fbf758929e5552853772f2a629 assets/evolved_resources/models/item/netherite_plate.json
 df9642319f1fb591309426955a1c148e77d8427d assets/evolved_resources/models/item/netherite_rod.json
+b289b7471cbe2264675704a38e2d3c20002d2c6e assets/evolved_resources/models/item/netherrack_dust.json
 6230bca0d403cbd5ccca4b967aa8475ccaa9cdd9 assets/evolved_resources/models/item/nickel_coin.json
 bf5a64e3fd635ddd4a8b4a0d49099814dc7078b9 assets/evolved_resources/models/item/nickel_dust.json
 5ed25e6b736f797e85fcc0d5d12c57c5f09790e0 assets/evolved_resources/models/item/nickel_gear.json
@@ -256,7 +256,6 @@ be227589d148df507e9a50640db55adbccf60569 assets/evolved_resources/models/item/si
 fdb3b861a26c2595526cc748f6ef2eceb5017e95 assets/evolved_resources/models/item/steel_coin.json
 a6c359e4cedef6895a5b35e74a0934c66b3f1e99 assets/evolved_resources/models/item/steel_dust.json
 c7ae8845cd3dc05720054a5eeefe92df1c6c9ae6 assets/evolved_resources/models/item/steel_gear.json
-17a94277401027f58b3e030e2e35da6b6cb29fdb assets/evolved_resources/models/item/steel_hammer.json
 dd99decb3d46ea7873877304057e884abf40dde6 assets/evolved_resources/models/item/steel_ingot.json
 d591d2b31e99d2443bb6aba7f1eed2f575452f10 assets/evolved_resources/models/item/steel_nugget.json
 558f43ae1f1418a944d78eea023309d2396b31ca assets/evolved_resources/models/item/steel_plate.json

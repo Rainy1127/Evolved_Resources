@@ -12,12 +12,12 @@ public class ModTags {
     public static class Blocks {
         public static final TagKey<Block> NEEDS_IRON_TOOL = tag("needs_iron_tool");
         public static final TagKey<Block> NEEDS_BRASS_TOOL = tag("needs_brass_tool");
-        public static final TagKey<Block> NEEDS_STEEL_TOOL = tag("needs_steel_tool");
         public static final TagKey<Block> NEEDS_ENDERIUM_TOOL = tag("needs_enderium_tool");
         public static final TagKey<Block> NEEDS_OSMIUM_TOOL = tag("needs_osmium_tool");
 
         public static final TagKey<Block> STORAGE_BLOCKS = forgeTag("storage_blocks");
         public static final TagKey<Block> ORES = forgeTag("ores");
+
 
         private static TagKey<Block> tag(String name) {
             return BlockTags.create(new ResourceLocation(Evolved_Resources.MOD_ID, name));
@@ -39,9 +39,8 @@ public class ModTags {
         public static final TagKey<Item> GEARS = forgeTag("gears");
         public static final TagKey<Item> GEMS = forgeTag("gems");
         public static final TagKey<Item> NUGGETS = forgeTag("nuggets");
+        public static final TagKey<Item> INGOTS = forgeTag("ingots");
 
-
-        public static final TagKey<Item> HAMMERS_MOD = forgeTag("hammers/hammers");
 
         private static TagKey<Item> tag(String name) {
             return ItemTags.create(new ResourceLocation(Evolved_Resources.MOD_ID, name));

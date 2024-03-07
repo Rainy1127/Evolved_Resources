@@ -153,7 +153,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.Lumium_Nugget.get());
                         pOutput.accept(ModItems.Lumium_Plate.get());
                         pOutput.accept(ModItems.Lumium_Rod.get());
-                        pOutput.accept(ModItems.Netherack_Dust.get());
+                        pOutput.accept(ModItems.Netherrack_Dust.get());
                         pOutput.accept(ModItems.Netherite_Coin.get());
                         pOutput.accept(ModItems.Netherite_Dust.get());
                         pOutput.accept(ModItems.Netherite_Gear.get());
@@ -301,7 +301,6 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.Zinc_Rod.get());
                         pOutput.accept(ModItems.Iron_Hammer.get());
                         pOutput.accept(ModItems.Brass_Hammer.get());
-                        pOutput.accept(ModItems.Steel_Hammer.get());
                         pOutput.accept(ModItems.Enderium_Hammer.get());
                         pOutput.accept(ModItems.Osmium_Hammer.get());
 
@@ -375,7 +374,6 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModBlocks.Zinc_Ore.get());
                     }))
                     .build());
-
 
 
     public static void register(IEventBus eventBus) {

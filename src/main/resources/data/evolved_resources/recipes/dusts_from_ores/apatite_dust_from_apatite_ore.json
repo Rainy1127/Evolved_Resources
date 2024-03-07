@@ -10,8 +10,6 @@
     }
   ],
   "result": {
-    "item": "evolved_resources:apatite_dust",
-    "count": 1
-  },
-  "show_notification": true
+    "item": "evolved_resources:apatite_dust"
+  }
 }

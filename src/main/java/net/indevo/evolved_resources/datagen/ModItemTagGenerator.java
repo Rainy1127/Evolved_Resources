@@ -1,11 +1,16 @@
 package net.indevo.evolved_resources.datagen;
 
 import net.indevo.evolved_resources.Evolved_Resources;
+import net.indevo.evolved_resources.block.ModBlocks;
 import net.indevo.evolved_resources.item.ModItems;
 import net.indevo.evolved_resources.util.ModTags;
 import net.minecraft.core.HolderLookup;
+import net.minecraft.core.registries.Registries;
 import net.minecraft.data.PackOutput;
 import net.minecraft.data.tags.ItemTagsProvider;
+import net.minecraft.resources.ResourceLocation;
+import net.minecraft.tags.TagKey;
+import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraftforge.common.data.ExistingFileHelper;
 import org.jetbrains.annotations.Nullable;
@@ -21,14 +26,14 @@ public class ModItemTagGenerator extends ItemTagsProvider {
 
     @Override
     protected void addTags(HolderLookup.Provider pProvider) {
-        tag(ModTags.Items.HAMMERS)
+        this.tag(ModTags.Items.HAMMERS)
                 .add(
                         ModItems.Iron_Hammer.get(),
                         ModItems.Brass_Hammer.get(),
                         ModItems.Osmium_Hammer.get(),
                         ModItems.Enderium_Hammer.get());
 
-        tag(ModTags.Items.COINS)
+        this.tag(ModTags.Items.COINS)
                 .add(
                         ModItems.Aluminum_Coin.get(),
                         ModItems.Platinum_Coin.get(),
@@ -68,7 +73,7 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.Quartz_Enriched_Iron_Coin.get(),
                         ModItems.Iron_Compressed_Coin.get());
 
-        tag(ModTags.Items.DUSTS)
+        this.tag(ModTags.Items.DUSTS)
                 .add(
                         ModItems.Andesite_Alloy_Dust.get(),
                         ModItems.Amethyst_Dust.get(),
@@ -96,7 +101,7 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.Lapis_Lazuli_Dust.get(),
                         ModItems.Lead_Dust.get(),
                         ModItems.Lumium_Dust.get(),
-                        ModItems.Netherack_Dust.get(),
+                        ModItems.Netherrack_Dust.get(),
                         ModItems.Netherite_Dust.get(),
                         ModItems.Nickel_Dust.get(),
                         ModItems.Obsidian_Dust.get(),
@@ -117,11 +122,11 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.Uranium_Dust.get(),
                         ModItems.Zinc_Dust.get());
 
-        tag(ModTags.Items.ENRICHED_DUSTS)
+        this.tag(ModTags.Items.ENRICHED_DUSTS)
                 .add(
                         ModItems.Enriched_Uranium_Dust.get());
 
-        tag(ModTags.Items.ENRICHED_MATERIALS)
+        this.tag(ModTags.Items.ENRICHED_MATERIALS)
                 .add(
                         ModItems.Enriched_Uranium.get(),
                         ModItems.Enriched_Tin.get(),
@@ -132,7 +137,7 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.Enriched_Redstone.get(),
                         ModItems.Enriched_Refined_Obsidian.get());
 
-        tag(ModTags.Items.POLISHED_GEMS)
+        this.tag(ModTags.Items.POLISHED_GEMS)
                 .add(
                         ModItems.Polished_Ruby.get(),
                         ModItems.Polished_Sapphire.get(),
@@ -143,7 +148,7 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.Polished_Lapis_Lazuli.get(),
                         ModItems.Polished_Quartz.get());
 
-        tag(ModTags.Items.RODS)
+        this.tag(ModTags.Items.RODS)
                 .add(
                         ModItems.Andesite_Alloy_Rod.get(),
                         ModItems.Aluminum_Rod.get(),
@@ -179,7 +184,7 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.Uranium_Rod.get(),
                         ModItems.Zinc_Rod.get());
 
-        tag(ModTags.Items.PLATES)
+        this.tag(ModTags.Items.PLATES)
                 .add(
                         ModItems.Andesite_Alloy_Plate.get(),
                         ModItems.Apatite_Plate.get(),
@@ -219,7 +224,7 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.Uranium_Plate.get(),
                         ModItems.Zinc_Plate.get());
 
-        tag(ModTags.Items.GEARS)
+        this.tag(ModTags.Items.GEARS)
                 .add(
                         ModItems.Andesite_Alloy_Gear.get(),
                         ModItems.Aluminum_Gear.get(),
@@ -256,14 +261,14 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.Uranium_Gear.get(),
                         ModItems.Zinc_Gear.get());
 
-        tag(ModTags.Items.GEMS)
+        this.tag(ModTags.Items.GEMS)
                 .add(
                         ModItems.Apatite.get(),
                         ModItems.Cinnabar.get(),
                         ModItems.Ruby.get(),
                         ModItems.Sapphire.get());
 
-        tag(ModTags.Items.NUGGETS)
+        this.tag(ModTags.Items.NUGGETS)
                 .add(
                         ModItems.Andesite_Alloy_Nugget.get(),
                         ModItems.Aluminum_Nugget.get(),
@@ -289,5 +294,32 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.Tin_Nugget.get(),
                         ModItems.Uranium_Nugget.get(),
                         ModItems.Zinc_Nugget.get());
+
+        this.tag(ModTags.Items.INGOTS)
+                .add(
+                        ModItems.Aluminum_Ingot.get(),
+                        ModItems.Andesite_Alloy_Ingot.get(),
+                        ModItems.Brass_Ingot.get(),
+                        ModItems.Bronze_Ingot.get(),
+                        ModItems.Constantan_Ingot.get(),
+                        ModItems.Electrum_Ingot.get(),
+                        ModItems.Enderium_Ingot.get(),
+                        ModItems.Graphite_Ingot.get(),
+                        ModItems.Invar_Ingot.get(),
+                        ModItems.Iridium_Ingot.get(),
+                        ModItems.Iron_Compressed_Ingot.get(),
+                        ModItems.Lead_Ingot.get(),
+                        ModItems.Lumium_Ingot.get(),
+                        ModItems.Nickel_Ingot.get(),
+                        ModItems.Osmium_Ingot.get(),
+                        ModItems.Platinum_Ingot.get(),
+                        ModItems.Refined_Glowstone_Ingot.get(),
+                        ModItems.Refined_Obsidian_Ingot.get(),
+                        ModItems.Rose_Gold_Ingot.get(),
+                        ModItems.Signalum_Ingot.get(),
+                        ModItems.Silver_Ingot.get(),
+                        ModItems.Steel_Ingot.get(),
+                        ModItems.Tin_Ingot.get(),
+                        ModItems.Zinc_Ingot.get());
     }
 }

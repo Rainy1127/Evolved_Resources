@@ -7,11 +7,15 @@ import net.indevo.evolved_resources.util.ModTags;
 import net.minecraft.advancements.critereon.ItemPredicate;
 import net.minecraft.data.PackOutput;
 import net.minecraft.data.recipes.*;
+import net.minecraft.tags.BlockTags;
+import net.minecraft.tags.TagKey;
+import net.minecraft.world.item.Item;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.item.crafting.AbstractCookingRecipe;
 import net.minecraft.world.item.crafting.Ingredient;
 import net.minecraft.world.item.crafting.RecipeSerializer;
 import net.minecraft.world.level.ItemLike;
+import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.common.crafting.conditions.IConditionBuilder;
 
@@ -22,20 +26,32 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
 
     //SMELTABLES
 
-    private static final List<ItemLike> ALUMINUM_SMELTABLES = List.of(ModItems.Raw_Aluminum.get(), ModBlocks.Aluminum_Ore.get(), ModBlocks.Deepslate_Aluminum_Ore.get());
-    private static final List<ItemLike> APATITE_SMELTABLES = List.of(ModBlocks.Apatite_Ore.get(), ModBlocks.Deepslate_Apatite_Ore.get());
-    private static final List<ItemLike> CINNABAR_SMELTABLES = List.of(ModBlocks.Cinnabar_Ore.get(), ModBlocks.Deepslate_Cinnabar_Ore.get());
-    private static final List<ItemLike> IRIDIUM_SMELTABLES = List.of(ModItems.Raw_Iridium.get() ,ModBlocks.Iridium_Ore.get(), ModBlocks.Deepslate_Iridium_Ore.get());
-    private static final List<ItemLike> LEAD_SMELTABLES = List.of(ModItems.Raw_Lead.get() ,ModBlocks.Lead_Ore.get(), ModBlocks.Deepslate_Lead_Ore.get());
-    private static final List<ItemLike> NICKEL_SMELTABLES = List.of(ModItems.Raw_Nickel.get() ,ModBlocks.Nickel_Ore.get(), ModBlocks.Deepslate_Nickel_Ore.get());
-    private static final List<ItemLike> OSMIUM_SMELTABLES = List.of(ModItems.Raw_Osmium.get() ,ModBlocks.Osmium_Ore.get(), ModBlocks.Deepslate_Osmium_Ore.get());
-    private static final List<ItemLike> PLATINUM_SMELTABLES = List.of(ModItems.Raw_Platinum.get() ,ModBlocks.Platinum_Ore.get(), ModBlocks.Deepslate_Platinum_Ore.get());
-    private static final List<ItemLike> RUBY_SMELTABLES = List.of(ModBlocks.Ruby_Ore.get(), ModBlocks.Deepslate_Ruby_Ore.get());
-    private static final List<ItemLike> SAPPHIRE_SMELTABLES = List.of(ModBlocks.Sapphire_Ore.get(), ModBlocks.Deepslate_Sapphire_Ore.get());
-    private static final List<ItemLike> SILVER_SMELTABLES = List.of(ModItems.Raw_Silver.get(), ModBlocks.Silver_Ore.get(), ModBlocks.Deepslate_Silver_Ore.get());
-    private static final List<ItemLike> TIN_SMELTABLES = List.of(ModItems.Raw_Tin.get(), ModBlocks.Tin_Ore.get(), ModBlocks.Deepslate_Tin_Ore.get());
-    private static final List<ItemLike> URANIUM_SMELTABLES = List.of(ModItems.Raw_Uranium.get(), ModBlocks.Uranium_Ore.get(), ModBlocks.Deepslate_Uranium_Ore.get());
-    private static final List<ItemLike> ZINC_SMELTABLES = List.of(ModItems.Raw_Zinc.get(), ModBlocks.Zinc_Ore.get(), ModBlocks.Deepslate_Zinc_Ore.get());
+    private static final List<ItemLike> ALUMINUM_DUST = List.of(ModItems.Aluminum_Dust.get());
+    private static final List<ItemLike> ANDESITE_ALLOY_DUST = List.of(ModItems.Andesite_Alloy_Dust.get());
+    private static final List<ItemLike> BRASS_DUST = List.of(ModItems.Brass_Dust.get());
+    private static final List<ItemLike> BRONZE_DUST = List.of(ModItems.Bronze_Dust.get());
+    private static final List<ItemLike> CONSTANTAN_DUST = List.of(ModItems.Constantan_Dust.get());
+    private static final List<ItemLike> ELECTRUM_DUST = List.of(ModItems.Electrum_Dust.get());
+    private static final List<ItemLike> ENDERIUM_DUST = List.of(ModItems.Enderium_Dust.get());
+    private static final List<ItemLike> GRAPHITE_DUST = List.of(ModItems.Graphite_Dust.get());
+    private static final List<ItemLike> INVAR_DUST = List.of(ModItems.Invar_Dust.get());
+    private static final List<ItemLike> IRIDIUM_DUST = List.of(ModItems.Iridium_Dust.get());
+    private static final List<ItemLike> IRON_COMPRESSED_DUST = List.of(ModItems.Iron_Compressed_Dust.get());
+    private static final List<ItemLike> LEAD_DUST = List.of(ModItems.Lead_Dust.get());
+    private static final List<ItemLike> LUMIUM_DUST = List.of(ModItems.Lumium_Dust.get());
+    private static final List<ItemLike> NICKEL_DUST = List.of(ModItems.Nickel_Dust.get());
+    private static final List<ItemLike> OSMIUM_DUST = List.of(ModItems.Osmium_Dust.get());
+    private static final List<ItemLike> PLATINUM_DUST = List.of(ModItems.Platinum_Dust.get());
+    private static final List<ItemLike> QUARTZ_ENRICHED_IRON_DUST = List.of(ModItems.Quartz_Enriched_Iron_Dust.get());
+    private static final List<ItemLike> REFINED_GLOWSTONE_DUST = List.of(ModItems.Refined_Glowstone_Dust.get());
+    private static final List<ItemLike> REFINED_OBSIDIAN_DUST = List.of(ModItems.Refined_Obsidian_Dust.get());
+    private static final List<ItemLike> ROSE_GOLD_DUST = List.of(ModItems.Rose_Gold_Dust.get());
+    private static final List<ItemLike> SIGNALUM_DUST = List.of(ModItems.Signalum_Dust.get());
+    private static final List<ItemLike> SILVER_DUST = List.of(ModItems.Silver_Dust.get());
+    private static final List<ItemLike> STEEL_DUST = List.of(ModItems.Steel_Dust.get());
+    private static final List<ItemLike> TIN_DUST = List.of(ModItems.Tin_Dust.get());
+    private static final List<ItemLike> URANIUM_DUST = List.of(ModItems.Uranium_Dust.get());
+    private static final List<ItemLike> ZINC_DUST = List.of(ModItems.Zinc_Dust.get());
 
     public ModRecipeProvider(PackOutput pOutput) {
         super(pOutput);
@@ -1559,21 +1575,6 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                         .of(Items.STICK).build()))
                 .save(pWriter);
 
-        ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModItems.Steel_Hammer.get())
-                .pattern("ABA")
-                .pattern("ACA")
-                .pattern(" C ")
-                .define('A', ModItems.Steel_Ingot.get())
-                .define('B', ModBlocks.Steel_Block.get())
-                .define('C', Items.STICK)
-                .unlockedBy("has_steel_ingot", inventoryTrigger(ItemPredicate.Builder.item()
-                        .of(ModItems.Steel_Ingot.get()).build()))
-                .unlockedBy("has_steel_block", inventoryTrigger(ItemPredicate.Builder.item()
-                        .of(ModBlocks.Steel_Block.get()).build()))
-                .unlockedBy("has_stick", inventoryTrigger(ItemPredicate.Builder.item()
-                        .of(Items.STICK).build()))
-                .save(pWriter);
-
         //INGOTS FROM BLOCK
 
         ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, ModItems.Aluminum_Ingot.get(), 9)
@@ -2583,7 +2584,7 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                         .of(ModTags.Items.HAMMERS).build()))
                 .save(pWriter);
 
-        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, ModItems.Netherack_Dust.get(), 1)
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, ModItems.Netherrack_Dust.get(), 1)
                 .requires(Blocks.NETHERRACK, 1)
                 .unlockedBy("has_netherrack", inventoryTrigger(ItemPredicate.Builder.item()
                         .of(Blocks.NETHERRACK).build()))
@@ -2763,6 +2764,8 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                         .of(ModTags.Items.HAMMERS).build()))
                 .save(pWriter);
 
+        //DUSTS FROM ORES
+
         //RAW THINGS
 
         nineBlockStorageRecipes(pWriter,RecipeCategory.MISC, ModItems.Raw_Aluminum.get(),RecipeCategory.MISC, ModBlocks.Raw_Aluminum_Block.get(),
@@ -2795,49 +2798,86 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
         nineBlockStorageRecipes(pWriter,RecipeCategory.MISC, ModItems.Raw_Zinc.get(),RecipeCategory.MISC, ModBlocks.Raw_Zinc_Block.get(),
                 "evolved_resources:raw_zinc", "zinc", "evolved_resources:raw_zinc_block", "zinc");
 
-        //SMELTING AND BLASTING ORES
+        //SMELTING AND BLASTING DUSTS
 
-        oreSmelting(pWriter, ALUMINUM_SMELTABLES, RecipeCategory.MISC, ModItems.Aluminum_Ingot.get(), 0.7f, 200, "aluminum");
-        oreBlasting(pWriter, ALUMINUM_SMELTABLES, RecipeCategory.MISC, ModItems.Aluminum_Ingot.get(), 0.7f, 100, "aluminum");
+        oreSmelting(pWriter, ALUMINUM_DUST, RecipeCategory.MISC, ModItems.Aluminum_Ingot.get(), 0.7f, 200, "aluminum");
+        oreBlasting(pWriter, ALUMINUM_DUST, RecipeCategory.MISC, ModItems.Aluminum_Ingot.get(), 0.7f, 100, "aluminum");
 
-        oreSmelting(pWriter, APATITE_SMELTABLES, RecipeCategory.MISC, ModItems.Apatite.get(), 0.7f, 200, "apatite");
-        oreBlasting(pWriter, APATITE_SMELTABLES, RecipeCategory.MISC, ModItems.Apatite.get(), 0.7f, 100, "apatite");
+        oreSmelting(pWriter, ANDESITE_ALLOY_DUST, RecipeCategory.MISC, ModItems.Andesite_Alloy_Ingot.get(), 0.7f, 200, "andesite_alloy");
+        oreBlasting(pWriter, ANDESITE_ALLOY_DUST, RecipeCategory.MISC, ModItems.Andesite_Alloy_Ingot.get(), 0.7f, 100, "andesite_alloy");
 
-        oreSmelting(pWriter, CINNABAR_SMELTABLES, RecipeCategory.MISC, ModItems.Cinnabar.get(), 0.7f, 200, "cinnabar");
-        oreBlasting(pWriter, CINNABAR_SMELTABLES, RecipeCategory.MISC, ModItems.Cinnabar.get(), 0.7f, 100, "cinnabar");
+        oreSmelting(pWriter, BRASS_DUST, RecipeCategory.MISC, ModItems.Brass_Ingot.get(), 0.7f, 200, "brass");
+        oreBlasting(pWriter, BRASS_DUST, RecipeCategory.MISC, ModItems.Brass_Ingot.get(), 0.7f, 100, "brass");
 
-        oreSmelting(pWriter, IRIDIUM_SMELTABLES, RecipeCategory.MISC, ModItems.Iridium_Ingot.get(), 0.7f, 200, "iridium");
-        oreBlasting(pWriter, IRIDIUM_SMELTABLES, RecipeCategory.MISC, ModItems.Iridium_Ingot.get(), 0.7f, 100, "iridium");
+        oreSmelting(pWriter, BRONZE_DUST, RecipeCategory.MISC, ModItems.Bronze_Ingot.get(), 0.7f, 200, "bronze");
+        oreBlasting(pWriter, BRONZE_DUST, RecipeCategory.MISC, ModItems.Bronze_Ingot.get(), 0.7f, 100, "bronze");
 
-        oreSmelting(pWriter, LEAD_SMELTABLES, RecipeCategory.MISC, ModItems.Lead_Ingot.get(), 0.7f, 200, "lead");
-        oreBlasting(pWriter, LEAD_SMELTABLES, RecipeCategory.MISC, ModItems.Lead_Ingot.get(), 0.7f, 100, "lead");
+        oreSmelting(pWriter, CONSTANTAN_DUST, RecipeCategory.MISC, ModItems.Constantan_Ingot.get(), 0.7f, 200, "constantan");
+        oreBlasting(pWriter, CONSTANTAN_DUST, RecipeCategory.MISC, ModItems.Constantan_Ingot.get(), 0.7f, 100, "constantan");
 
-        oreSmelting(pWriter, NICKEL_SMELTABLES, RecipeCategory.MISC, ModItems.Nickel_Ingot.get(), 0.7f, 200, "nickel");
-        oreBlasting(pWriter, NICKEL_SMELTABLES, RecipeCategory.MISC, ModItems.Nickel_Ingot.get(), 0.7f, 100, "nickel");
+        oreSmelting(pWriter, ELECTRUM_DUST, RecipeCategory.MISC, ModItems.Electrum_Dust.get(), 0.7f, 200, "electrum");
+        oreBlasting(pWriter, ELECTRUM_DUST, RecipeCategory.MISC, ModItems.Electrum_Dust.get(), 0.7f, 100, "electrum");
 
-        oreSmelting(pWriter, OSMIUM_SMELTABLES, RecipeCategory.MISC, ModItems.Osmium_Ingot.get(), 0.7f, 200, "osmium");
-        oreBlasting(pWriter, OSMIUM_SMELTABLES, RecipeCategory.MISC, ModItems.Osmium_Ingot.get(), 0.7f, 100, "osmium");
+        oreSmelting(pWriter, ENDERIUM_DUST, RecipeCategory.MISC, ModItems.Enderium_Ingot.get(), 0.7f, 200, "enderium");
+        oreBlasting(pWriter, ENDERIUM_DUST, RecipeCategory.MISC, ModItems.Enderium_Ingot.get(), 0.7f, 100, "enderium");
 
-        oreSmelting(pWriter, PLATINUM_SMELTABLES, RecipeCategory.MISC, ModItems.Platinum_Ingot.get(), 0.7f, 200, "platinum");
-        oreBlasting(pWriter, PLATINUM_SMELTABLES, RecipeCategory.MISC, ModItems.Platinum_Ingot.get(), 0.7f, 100, "platinum");
+        oreSmelting(pWriter, GRAPHITE_DUST, RecipeCategory.MISC, ModItems.Graphite_Ingot.get(), 0.7f, 200, "graphite");
+        oreBlasting(pWriter, GRAPHITE_DUST, RecipeCategory.MISC, ModItems.Graphite_Ingot.get(), 0.7f, 100, "graphite");
 
-        oreSmelting(pWriter, RUBY_SMELTABLES, RecipeCategory.MISC, ModItems.Ruby.get(), 0.7f, 200, "ruby");
-        oreBlasting(pWriter, RUBY_SMELTABLES, RecipeCategory.MISC, ModItems.Ruby.get(), 0.7f, 100, "ruby");
+        oreSmelting(pWriter, INVAR_DUST, RecipeCategory.MISC, ModItems.Invar_Ingot.get(), 0.7f, 200, "invar");
+        oreBlasting(pWriter, INVAR_DUST, RecipeCategory.MISC, ModItems.Invar_Ingot.get(), 0.7f, 100, "invar");
 
-        oreSmelting(pWriter, SAPPHIRE_SMELTABLES, RecipeCategory.MISC, ModItems.Sapphire.get(), 0.7f, 200, "sapphire");
-        oreBlasting(pWriter, SAPPHIRE_SMELTABLES, RecipeCategory.MISC, ModItems.Sapphire.get(), 0.7f, 100, "sapphire");
+        oreSmelting(pWriter, IRIDIUM_DUST, RecipeCategory.MISC, ModItems.Iridium_Ingot.get(), 0.7f, 200, "iridium");
+        oreBlasting(pWriter, IRIDIUM_DUST, RecipeCategory.MISC, ModItems.Iridium_Ingot.get(), 0.7f, 100, "iridium");
 
-        oreSmelting(pWriter, SILVER_SMELTABLES, RecipeCategory.MISC, ModItems.Silver_Ingot.get(), 0.7f, 200, "silver");
-        oreBlasting(pWriter, SILVER_SMELTABLES, RecipeCategory.MISC, ModItems.Silver_Ingot.get(), 0.7f, 100, "silver");
+        oreSmelting(pWriter, IRON_COMPRESSED_DUST, RecipeCategory.MISC, ModItems.Iron_Compressed_Ingot.get(), 0.7f, 200, "iron_compressed");
+        oreBlasting(pWriter, IRON_COMPRESSED_DUST, RecipeCategory.MISC, ModItems.Iron_Compressed_Ingot.get(), 0.7f, 100, "iron_compressed");
 
-        oreSmelting(pWriter, TIN_SMELTABLES, RecipeCategory.MISC, ModItems.Tin_Ingot.get(), 0.7f, 200, "tin");
-        oreBlasting(pWriter, TIN_SMELTABLES, RecipeCategory.MISC, ModItems.Tin_Ingot.get(), 0.7f, 100, "tin");
+        oreSmelting(pWriter, LEAD_DUST, RecipeCategory.MISC, ModItems.Lead_Ingot.get(), 0.7f, 200, "lead");
+        oreBlasting(pWriter, LEAD_DUST, RecipeCategory.MISC, ModItems.Lead_Ingot.get(), 0.7f, 100, "lead");
 
-        oreSmelting(pWriter, URANIUM_SMELTABLES, RecipeCategory.MISC, ModItems.Uranium_Ingot.get(), 0.7f, 200, "uranium");
-        oreBlasting(pWriter, URANIUM_SMELTABLES, RecipeCategory.MISC, ModItems.Uranium_Ingot.get(), 0.7f, 100, "uranium");
+        oreSmelting(pWriter, LUMIUM_DUST, RecipeCategory.MISC, ModItems.Lumium_Ingot.get(), 0.7f, 200, "lumium");
+        oreBlasting(pWriter, LUMIUM_DUST, RecipeCategory.MISC, ModItems.Lumium_Ingot.get(), 0.7f, 100, "lumium");
 
-        oreSmelting(pWriter, ZINC_SMELTABLES, RecipeCategory.MISC, ModItems.Zinc_Ingot.get(), 0.7f, 200, "zinc");
-        oreBlasting(pWriter, ZINC_SMELTABLES, RecipeCategory.MISC, ModItems.Zinc_Ingot.get(), 0.7f, 100, "zinc");
+        oreSmelting(pWriter, NICKEL_DUST, RecipeCategory.MISC, ModItems.Nickel_Ingot.get(), 0.7f, 200, "nickel");
+        oreBlasting(pWriter, NICKEL_DUST, RecipeCategory.MISC, ModItems.Nickel_Ingot.get(), 0.7f, 100, "nickel");
+
+        oreSmelting(pWriter, OSMIUM_DUST, RecipeCategory.MISC, ModItems.Osmium_Ingot.get(), 0.7f, 200, "osmium");
+        oreBlasting(pWriter, OSMIUM_DUST, RecipeCategory.MISC, ModItems.Osmium_Ingot.get(), 0.7f, 100, "osmium");
+
+        oreSmelting(pWriter, PLATINUM_DUST, RecipeCategory.MISC, ModItems.Platinum_Ingot.get(), 0.7f, 200, "platinum");
+        oreBlasting(pWriter, PLATINUM_DUST, RecipeCategory.MISC, ModItems.Platinum_Ingot.get(), 0.7f, 100, "platinum");
+
+        oreSmelting(pWriter, QUARTZ_ENRICHED_IRON_DUST, RecipeCategory.MISC, ModItems.Quartz_Enriched_Iron_Ingot.get(), 0.7f, 200, "quartz_enriched_iron");
+        oreBlasting(pWriter, QUARTZ_ENRICHED_IRON_DUST, RecipeCategory.MISC, ModItems.Quartz_Enriched_Iron_Ingot.get(), 0.7f, 100, "quartz_enriched_iron");
+
+        oreSmelting(pWriter, REFINED_GLOWSTONE_DUST, RecipeCategory.MISC, ModItems.Refined_Glowstone_Ingot.get(), 0.7f, 200, "refined_glowstone");
+        oreBlasting(pWriter, REFINED_GLOWSTONE_DUST, RecipeCategory.MISC, ModItems.Refined_Glowstone_Ingot.get(), 0.7f, 100, "refined_glowstone");
+
+        oreSmelting(pWriter, REFINED_OBSIDIAN_DUST, RecipeCategory.MISC, ModItems.Refined_Obsidian_Ingot.get(), 0.7f, 200, "refined_obsidian");
+        oreBlasting(pWriter, REFINED_OBSIDIAN_DUST, RecipeCategory.MISC, ModItems.Refined_Obsidian_Ingot.get(), 0.7f, 100, "refined_obsidian");
+
+        oreSmelting(pWriter, ROSE_GOLD_DUST, RecipeCategory.MISC, ModItems.Rose_Gold_Ingot.get(), 0.7f, 200, "rose_gold");
+        oreBlasting(pWriter, ROSE_GOLD_DUST, RecipeCategory.MISC, ModItems.Rose_Gold_Ingot.get(), 0.7f, 100, "rose_gold");
+
+        oreSmelting(pWriter, SIGNALUM_DUST, RecipeCategory.MISC, ModItems.Signalum_Ingot.get(), 0.7f, 200, "signalum");
+        oreBlasting(pWriter, SIGNALUM_DUST, RecipeCategory.MISC, ModItems.Signalum_Ingot.get(), 0.7f, 100, "signalum");
+
+        oreSmelting(pWriter, SILVER_DUST, RecipeCategory.MISC, ModItems.Silver_Ingot.get(), 0.7f, 200, "silver");
+        oreBlasting(pWriter, SILVER_DUST, RecipeCategory.MISC, ModItems.Silver_Ingot.get(), 0.7f, 100, "silver");
+
+        oreSmelting(pWriter, STEEL_DUST, RecipeCategory.MISC, ModItems.Steel_Ingot.get(), 0.7f, 200, "steel");
+        oreBlasting(pWriter, STEEL_DUST, RecipeCategory.MISC, ModItems.Steel_Ingot.get(), 0.7f, 100, "steel");
+
+        oreSmelting(pWriter, TIN_DUST, RecipeCategory.MISC, ModItems.Tin_Ingot.get(), 0.7f, 200, "tin");
+        oreBlasting(pWriter, TIN_DUST, RecipeCategory.MISC, ModItems.Tin_Ingot.get(), 0.7f, 100, "tin");
+
+        oreSmelting(pWriter, URANIUM_DUST, RecipeCategory.MISC, ModItems.Uranium_Ingot.get(), 0.7f, 200, "uranium");
+        oreBlasting(pWriter, URANIUM_DUST, RecipeCategory.MISC, ModItems.Uranium_Ingot.get(), 0.7f, 100, "uranium");
+
+        oreSmelting(pWriter, ZINC_DUST, RecipeCategory.MISC, ModItems.Zinc_Ingot.get(), 0.7f, 200, "zinc");
+        oreBlasting(pWriter, ZINC_DUST, RecipeCategory.MISC, ModItems.Zinc_Ingot.get(), 0.7f, 100, "zinc");
+
     }
 
     protected static void oreSmelting(Consumer<FinishedRecipe> pFinishedRecipeConsumer, List<ItemLike> pIngredients, RecipeCategory pCategory, ItemLike pResult,
@@ -2857,7 +2897,7 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                                      float pExperience, int pCookingTime, String pGroup, String pSuffix) {
         for (ItemLike itemLike : pIngredients) {
             SimpleCookingRecipeBuilder.generic(Ingredient.of(itemLike), pCategory, pResult, pExperience, pCookingTime,
-                    pSerializer).group(pGroup).unlockedBy(getHasName(itemLike), has(itemLike))
+                            pSerializer).group(pGroup).unlockedBy(getHasName(itemLike), has(itemLike))
                     .save(pFinishedRecipeConsumer, Evolved_Resources.MOD_ID + ":" + getItemName(pResult) + pSuffix + "_" + getItemName(itemLike));
         }
     }

@@ -2,7 +2,10 @@ package net.indevo.evolved_resources.item;
 
 import net.indevo.evolved_resources.Evolved_Resources;
 import net.indevo.evolved_resources.item.custom.HammerItem;
+import net.indevo.evolved_resources.util.ModTags;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.PickaxeItem;
+import net.minecraft.world.item.Tiers;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -831,7 +834,7 @@ public class ModItems {
     public static final RegistryObject<Item> End_Stone_Dust = ITEMS.register("end_stone_dust",
             () -> new Item(new Item.Properties()));
 
-    public static final RegistryObject<Item> Netherack_Dust = ITEMS.register("netherack_dust",
+    public static final RegistryObject<Item> Netherrack_Dust = ITEMS.register("netherrack_dust",
             () -> new Item(new Item.Properties()));
 
     public static final RegistryObject<Item> Amethyst_Dust = ITEMS.register("amethyst_dust",
@@ -856,8 +859,6 @@ public class ModItems {
             () -> new HammerItem(ModToolTiers.IRON, 1, -2.8F, new Item.Properties().durability(512)));
     public static final RegistryObject<Item> Brass_Hammer = ITEMS.register("brass_hammer",
             () -> new HammerItem(ModToolTiers.BRASS, 1, -2.8F, new Item.Properties().durability(768)));
-    public static final RegistryObject<Item> Steel_Hammer = ITEMS.register("steel_hammer",
-            () -> new HammerItem(ModToolTiers.STEEL, 1, -2.8F, new Item.Properties().durability(1024)));
     public static final RegistryObject<Item> Enderium_Hammer = ITEMS.register("enderium_hammer",
             () -> new HammerItem(ModToolTiers.ENDERIUM, 1, -2.8F, new Item.Properties().durability(1536)));
     public static final RegistryObject<Item> Osmium_Hammer = ITEMS.register("osmium_hammer",

@@ -1,4 +1,4 @@
-  {
+{
   "block.evolved_resources.platinum_ore": "Платиновая руда",
   "block.evolved_resources.platinum_block": "Платиновый блок",
   "block.evolved_resources.raw_platinum_block": "Блок рудной платины",
@@ -80,7 +80,7 @@
 
   "block.evolved_resources.refined_obsidian_block": "Блок очищенного обсидиана",
 
-  "block.evolved_resources.refined_glowstone_block": "Блок очишенного светокамня",
+  "block.evolved_resources.refined_glowstone_block": "Блок очищенного светокамня",
 
   "block.evolved_resources.brass_block": "Латунный блок",
 
@@ -415,7 +415,7 @@
 
   "item.evolved_resources.ender_pearl_dust": "Пыль эндер жемчуга",
 
-  "item.evolved_resources.netherack_dust": "Незераковая пыль",
+  "item.evolved_resources.netherrack_dust": "Незераковая пыль",
 
   "item.evolved_resources.amethyst_dust": "Аметистовая пыль",
 
@@ -429,12 +429,11 @@
   "item.evolved_resources.enriched_iron": "Обогащённое железо",
   "item.evolved_resources.enriched_diamond": "Обогащённый алмаз",
   "item.evolved_resources.enriched_redstone": "Обогащённая красная пыль",
-   "item.evolved_resources.enriched_refined_obsidian": "Обогащённый обсидиан",
+  "item.evolved_resources.enriched_refined_obsidian": "Обогащённый обсидиан",
 
 
   "item.evolved_resources.iron_hammer": "Железный молот",
   "item.evolved_resources.brass_hammer": "Латунный молот",
-  "item.evolved_resources.steel_hammer": "Стальной молот",
   "item.evolved_resources.enderium_hammer": "Эндериумовый молот",
   "item.evolved_resources.osmium_hammer": "Осмиевый молот",
 

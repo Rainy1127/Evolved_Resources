@@ -23,11 +23,6 @@ public class ModToolTiers {
                     ModTags.Blocks.NEEDS_BRASS_TOOL, () -> Ingredient.of(ModItems.Brass_Ingot.get())),
             new ResourceLocation(Evolved_Resources.MOD_ID, "brass_ingot"), List.of(Tiers.IRON), List.of());
 
-    public static final Tier STEEL = TierSortingRegistry.registerTier(
-            new ForgeTier(2, 250, 6.0F, 2.0F, 14,
-                    ModTags.Blocks.NEEDS_STEEL_TOOL, () -> Ingredient.of(ModItems.Steel_Ingot.get())),
-            new ResourceLocation(Evolved_Resources.MOD_ID, "steel_ingot"), List.of(Tiers.IRON), List.of());
-
     public static final Tier ENDERIUM = TierSortingRegistry.registerTier(
             new ForgeTier(3, 1561, 8.0F, 3.0F, 10,
                     ModTags.Blocks.NEEDS_ENDERIUM_TOOL, () -> Ingredient.of(ModItems.Enderium_Ingot.get())),
