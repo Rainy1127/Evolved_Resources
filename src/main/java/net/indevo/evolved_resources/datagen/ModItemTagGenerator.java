@@ -128,14 +128,7 @@ public class ModItemTagGenerator extends ItemTagsProvider {
 
         this.tag(ModTags.Items.ENRICHED_MATERIALS)
                 .add(
-                        ModItems.Enriched_Uranium.get(),
-                        ModItems.Enriched_Tin.get(),
-                        ModItems.Enriched_Carbon.get(),
-                        ModItems.Enriched_Diamond.get(),
-                        ModItems.Enriched_Gold.get(),
-                        ModItems.Enriched_Iron.get(),
-                        ModItems.Enriched_Redstone.get(),
-                        ModItems.Enriched_Refined_Obsidian.get());
+                        ModItems.Enriched_Uranium.get());
 
         this.tag(ModTags.Items.POLISHED_GEMS)
                 .add(

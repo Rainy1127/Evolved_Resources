@@ -840,21 +840,6 @@ public class ModItems {
     public static final RegistryObject<Item> Amethyst_Dust = ITEMS.register("amethyst_dust",
             () -> new Item(new Item.Properties()));
 
-    public static final RegistryObject<Item> Enriched_Tin = ITEMS.register("enriched_tin",
-            () -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> Enriched_Carbon = ITEMS.register("enriched_carbon",
-            () -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> Enriched_Gold = ITEMS.register("enriched_gold",
-            () -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> Enriched_Iron = ITEMS.register("enriched_iron",
-            () -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> Enriched_Diamond = ITEMS.register("enriched_diamond",
-            () -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> Enriched_Redstone = ITEMS.register("enriched_redstone",
-            () -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> Enriched_Refined_Obsidian = ITEMS.register("enriched_refined_obsidian",
-            () -> new Item(new Item.Properties()));
-
     public static final RegistryObject<Item> Iron_Hammer = ITEMS.register("iron_hammer",
             () -> new HammerItem(ModToolTiers.IRON, 1, -2.8F, new Item.Properties().durability(512)));
     public static final RegistryObject<Item> Brass_Hammer = ITEMS.register("brass_hammer",

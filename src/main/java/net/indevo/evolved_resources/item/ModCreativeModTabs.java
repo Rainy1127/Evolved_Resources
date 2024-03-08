@@ -84,13 +84,6 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.Electrum_Nugget.get());
                         pOutput.accept(ModItems.Electrum_Plate.get());
                         pOutput.accept(ModItems.Electrum_Rod.get());
-                        pOutput.accept(ModItems.Enriched_Tin.get());
-                        pOutput.accept(ModItems.Enriched_Carbon.get());
-                        pOutput.accept(ModItems.Enriched_Gold.get());
-                        pOutput.accept(ModItems.Enriched_Iron.get());
-                        pOutput.accept(ModItems.Enriched_Diamond.get());
-                        pOutput.accept(ModItems.Enriched_Redstone.get());
-                        pOutput.accept(ModItems.Enriched_Refined_Obsidian.get());
                         pOutput.accept(ModItems.Emerald_Coin.get());
                         pOutput.accept(ModItems.Emerald_Dust.get());
                         pOutput.accept(ModItems.Emerald_Gear.get());

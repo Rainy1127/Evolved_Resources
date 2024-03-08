@@ -1,4 +1,4 @@
-// 1.20.1	2024-03-07T21:56:31.9679812	Item Models: evolved_resources
+// 1.20.1	2024-03-08T19:16:41.1537176	Item Models: evolved_resources
 bfa45ce65a2c9557705d6fe8b1d0d9813b79a5b2 assets/evolved_resources/models/item/aluminum_coin.json
 61ea379e27fd8a0dd2c732bb9f7c6576268340b7 assets/evolved_resources/models/item/aluminum_dust.json
 ffe7d9d2489e78f09097f06355a1e498282be6bc assets/evolved_resources/models/item/aluminum_gear.json
@@ -81,13 +81,6 @@ f25ede1862e2d1d7e2bc29acb42988bc7f401e5f assets/evolved_resources/models/item/en
 ee4fb58f9533cd4589d4bc4ee6dcfaadae6002e9 assets/evolved_resources/models/item/enderium_rod.json
 f929082c9985f086247ba80b298e7784dd61a7aa assets/evolved_resources/models/item/ender_pearl_dust.json
 d7f6fbd2414359db7bdb0d19d5e16cffe693cd21 assets/evolved_resources/models/item/end_stone_dust.json
-425fc994cfddfc0dccd8430ce85304729e5e0f8e assets/evolved_resources/models/item/enriched_carbon.json
-3d372b0823a5ac855acc6e55e458259c46b50a65 assets/evolved_resources/models/item/enriched_diamond.json
-3d148eed63f9c6273ab20b16edc12b810b73cdd0 assets/evolved_resources/models/item/enriched_gold.json
-1069d843754503dbf2d3297f07b6acfede027f06 assets/evolved_resources/models/item/enriched_iron.json
-288a7ed7ed9613e75e9986ed86adfc76cc4baf6a assets/evolved_resources/models/item/enriched_redstone.json
-554120fd958c0782fe6e8858c7d54c0243eb7707 assets/evolved_resources/models/item/enriched_refined_obsidian.json
-e76ede1bf128c94d71b432c8c14935d32c98ab47 assets/evolved_resources/models/item/enriched_tin.json
 8d6eced0017ec567e01ee565030dfc09b6316aca assets/evolved_resources/models/item/enriched_uranium.json
 6c8840e3d1dd91eb62ce683cac12ea0617d9808f assets/evolved_resources/models/item/enriched_uranium_dust.json
 7a80d49a8c6ab7862cc09672e51fe53bcc52055d assets/evolved_resources/models/item/gold_coin.json

@@ -107,13 +107,6 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.Electrum_Nugget);
         simpleItem(ModItems.Electrum_Plate);
         simpleItem(ModItems.Electrum_Rod);
-        simpleItem(ModItems.Enriched_Tin);
-        simpleItem(ModItems.Enriched_Carbon);
-        simpleItem(ModItems.Enriched_Gold);
-        simpleItem(ModItems.Enriched_Iron);
-        simpleItem(ModItems.Enriched_Diamond);
-        simpleItem(ModItems.Enriched_Redstone);
-        simpleItem(ModItems.Enriched_Refined_Obsidian);
         simpleItem(ModItems.Emerald_Coin);
         simpleItem(ModItems.Emerald_Dust);
         simpleItem(ModItems.Emerald_Gear);
