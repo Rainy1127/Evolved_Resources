@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "lumium",
+  "ingredient": {
+    "item": "evolved_resources:lumium_dust"
+  },
+  "result": "evolved_resources:lumium_ingot"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "quartz_enriched_iron",
+  "ingredient": {
+    "item": "evolved_resources:quartz_enriched_iron_dust"
+  },
+  "result": "evolved_resources:quartz_enriched_iron_ingot"
+}

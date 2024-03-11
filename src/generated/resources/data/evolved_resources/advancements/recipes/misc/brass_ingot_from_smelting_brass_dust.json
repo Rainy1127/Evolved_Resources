@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_brass_dust": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "evolved_resources:brass_dust"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "evolved_resources:brass_ingot_from_smelting_brass_dust"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_brass_dust",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "evolved_resources:brass_ingot_from_smelting_brass_dust"
+    ]
+  },
+  "sends_telemetry_event": false
+}

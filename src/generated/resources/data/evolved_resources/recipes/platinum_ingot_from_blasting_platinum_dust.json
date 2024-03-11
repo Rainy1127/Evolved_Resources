@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "platinum",
+  "ingredient": {
+    "item": "evolved_resources:platinum_dust"
+  },
+  "result": "evolved_resources:platinum_ingot"
+}

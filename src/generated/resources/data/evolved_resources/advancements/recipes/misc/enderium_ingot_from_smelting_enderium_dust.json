@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_enderium_dust": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "evolved_resources:enderium_dust"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "evolved_resources:enderium_ingot_from_smelting_enderium_dust"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_enderium_dust",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "evolved_resources:enderium_ingot_from_smelting_enderium_dust"
+    ]
+  },
+  "sends_telemetry_event": false
+}

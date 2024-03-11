@@ -1,4 +1,4 @@
-// 1.20.1	2024-03-08T19:16:41.1567092	Tags for minecraft:item mod id evolved_resources
+// 1.20.1	2024-03-11T23:40:09.4903935	Tags for minecraft:item mod id evolved_resources
 750b33b12800459d8ae94f6737e8040176ddfddc data/forge/tags/items/coins.json
 9655fdcbba766f4010f07463e5802d6a8d1684f9 data/forge/tags/items/dusts.json
 e540807d094f85bd234b454204f4b9e168bc9d3b data/forge/tags/items/enriched_dusts.json
@@ -10,4 +10,5 @@ ef374de305af252ed87eae278f8ca1a806fb86d1 data/forge/tags/items/gears.json
 5126ab608e50c521ca73953b4dd634afc2ae1e5d data/forge/tags/items/nuggets.json
 6ee393e9f2500eb45d975080671ed304aaca08c7 data/forge/tags/items/plates.json
 cf96c6e41452fb3c98b5c3dfafb2e7c6f7479bbc data/forge/tags/items/polished_gems.json
+3170260dbd0136a805133b21417b11bceee8204f data/forge/tags/items/raw_materials.json
 c57357891c496c31787d73065642de7e9747e42a data/forge/tags/items/rods.json

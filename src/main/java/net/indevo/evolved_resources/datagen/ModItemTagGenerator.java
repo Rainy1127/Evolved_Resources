@@ -314,5 +314,18 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                         ModItems.Steel_Ingot.get(),
                         ModItems.Tin_Ingot.get(),
                         ModItems.Zinc_Ingot.get());
+
+        this.tag(ModTags.Items.RAW_MATERIALS)
+                .add(
+                        ModItems.Raw_Aluminum.get(),
+                        ModItems.Raw_Iridium.get(),
+                        ModItems.Raw_Lead.get(),
+                        ModItems.Raw_Nickel.get(),
+                        ModItems.Raw_Osmium.get(),
+                        ModItems.Raw_Platinum.get(),
+                        ModItems.Raw_Silver.get(),
+                        ModItems.Raw_Tin.get(),
+                        ModItems.Raw_Uranium.get(),
+                        ModItems.Raw_Zinc.get());
     }
 }

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "iron_compressed",
+  "ingredient": {
+    "item": "evolved_resources:iron_compressed_dust"
+  },
+  "result": "evolved_resources:iron_compressed_ingot"
+}

@@ -1,35 +1,35 @@
-[08мар.2024 19:16:34.563] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\Mike\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.2.20, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, evolved_resources, --all, --output, D:\Evolved-Resources--1.20.1\src\generated\resources, --existing, D:\Evolved-Resources--1.20.1\src\main\resources]
-[08мар.2024 19:16:34.571] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.10 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
-[08мар.2024 19:16:34.666] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
-[08мар.2024 19:16:34.714] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Mike/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
-[08мар.2024 19:16:35.014] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Mike\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.2.20\918959a037ab7191a0c45a359f4746ab76c110c3\javafmllanguage-1.20.1-47.2.20.jar is missing mods.toml file
-[08мар.2024 19:16:35.017] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Mike\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.2.20\c1d1efcb98e8bfcf3dbfed0d1e81b55b648b86bf\lowcodelanguage-1.20.1-47.2.20.jar is missing mods.toml file
-[08мар.2024 19:16:35.020] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Mike\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.2.20\efca3bee89c0085192b122d47334692b921ca7d1\mclanguage-1.20.1-47.2.20.jar is missing mods.toml file
-[08мар.2024 19:16:35.023] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Mike\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.2.20\12cd436f148405b50c9b16bd8f3cc6f18db89824\fmlcore-1.20.1-47.2.20.jar is missing mods.toml file
-[08мар.2024 19:16:35.098] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[08мар.2024 19:16:36.252] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\Mike\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, evolved_resources, --all, --output, D:\Evolved-Resources--1.20.1\src\generated\resources, --existing, D:\Evolved-Resources--1.20.1\src\main\resources]
-[08мар.2024 19:16:36.515] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [evolved_resources]
-[08мар.2024 19:16:40.125] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.20, for MC 1.20.1 with MCP 20230612.114412
-[08мар.2024 19:16:40.126] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.20 Initialized
-[08мар.2024 19:16:40.325] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
-[08мар.2024 19:16:40.332] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 4.343 ms
-[08мар.2024 19:16:40.620] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Mike/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.20_mapped_parchment_2023.10.08-1.20.2/forge-1.20.1-47.2.20_mapped_parchment_2023.10.08-1.20.2-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
-[08мар.2024 19:16:40.620] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Mike/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.20_mapped_parchment_2023.10.08-1.20.2/forge-1.20.1-47.2.20_mapped_parchment_2023.10.08-1.20.2-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
-[08мар.2024 19:16:40.763] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
-[08мар.2024 19:16:40.837] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 73 ms
-[08мар.2024 19:16:40.838] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: evolved_resources
-[08мар.2024 19:16:40.997] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: evolved_resources finished after 158 ms
-[08мар.2024 19:16:40.998] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: evolved_resources
-[08мар.2024 19:16:41.069] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: evolved_resources finished after 71 ms
-[08мар.2024 19:16:41.069] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id evolved_resources
-[08мар.2024 19:16:41.081] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id evolved_resources finished after 12 ms
-[08мар.2024 19:16:41.082] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id evolved_resources
-[08мар.2024 19:16:41.085] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id evolved_resources finished after 3 ms
-[08мар.2024 19:16:41.085] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Global Loot Modifiers : evolved_resources
-[08мар.2024 19:16:41.086] [main/INFO] [net.minecraft.data.DataGenerator/]: Global Loot Modifiers : evolved_resources finished after 1 ms
-[08мар.2024 19:16:41.086] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
-[08мар.2024 19:16:41.135] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 47 ms
-[08мар.2024 19:16:41.135] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Registries
-[08мар.2024 19:16:41.152] [main/INFO] [net.minecraft.data.DataGenerator/]: Registries finished after 17 ms
-[08мар.2024 19:16:41.152] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 389 ms
-[08мар.2024 19:16:41.176] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 1365, old count: 1365, new count: 1359, removed stale: 7, written: 1
+[11мар.2024 23:46:33.707] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\Mike\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.2.20, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, evolved_resources, --all, --output, D:\Evolved-Resources--1.20.1\src\generated\resources, --existing, D:\Evolved-Resources--1.20.1\src\main\resources]
+[11мар.2024 23:46:33.711] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.10 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
+[11мар.2024 23:46:33.802] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[11мар.2024 23:46:33.850] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Mike/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[11мар.2024 23:46:34.152] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Mike\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.2.20\918959a037ab7191a0c45a359f4746ab76c110c3\javafmllanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[11мар.2024 23:46:34.154] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Mike\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.2.20\c1d1efcb98e8bfcf3dbfed0d1e81b55b648b86bf\lowcodelanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[11мар.2024 23:46:34.158] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Mike\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.2.20\efca3bee89c0085192b122d47334692b921ca7d1\mclanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[11мар.2024 23:46:34.161] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Mike\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.2.20\12cd436f148405b50c9b16bd8f3cc6f18db89824\fmlcore-1.20.1-47.2.20.jar is missing mods.toml file
+[11мар.2024 23:46:34.235] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[11мар.2024 23:46:35.481] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\Mike\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, evolved_resources, --all, --output, D:\Evolved-Resources--1.20.1\src\generated\resources, --existing, D:\Evolved-Resources--1.20.1\src\main\resources]
+[11мар.2024 23:46:35.753] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [evolved_resources]
+[11мар.2024 23:46:39.184] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.20, for MC 1.20.1 with MCP 20230612.114412
+[11мар.2024 23:46:39.185] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.20 Initialized
+[11мар.2024 23:46:39.451] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[11мар.2024 23:46:39.457] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 4.507 ms
+[11мар.2024 23:46:39.764] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Mike/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.20_mapped_parchment_2023.10.08-1.20.2/forge-1.20.1-47.2.20_mapped_parchment_2023.10.08-1.20.2-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[11мар.2024 23:46:39.764] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Mike/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.20_mapped_parchment_2023.10.08-1.20.2/forge-1.20.1-47.2.20_mapped_parchment_2023.10.08-1.20.2-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[11мар.2024 23:46:39.928] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[11мар.2024 23:46:40.011] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 82 ms
+[11мар.2024 23:46:40.011] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: evolved_resources
+[11мар.2024 23:46:40.168] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: evolved_resources finished after 157 ms
+[11мар.2024 23:46:40.169] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: evolved_resources
+[11мар.2024 23:46:40.244] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: evolved_resources finished after 74 ms
+[11мар.2024 23:46:40.244] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id evolved_resources
+[11мар.2024 23:46:40.257] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id evolved_resources finished after 12 ms
+[11мар.2024 23:46:40.257] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id evolved_resources
+[11мар.2024 23:46:40.260] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id evolved_resources finished after 3 ms
+[11мар.2024 23:46:40.261] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Global Loot Modifiers : evolved_resources
+[11мар.2024 23:46:40.262] [main/INFO] [net.minecraft.data.DataGenerator/]: Global Loot Modifiers : evolved_resources finished after 1 ms
+[11мар.2024 23:46:40.262] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[11мар.2024 23:46:40.305] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 42 ms
+[11мар.2024 23:46:40.305] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Registries
+[11мар.2024 23:46:40.323] [main/INFO] [net.minecraft.data.DataGenerator/]: Registries finished after 17 ms
+[11мар.2024 23:46:40.323] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 395 ms
+[11мар.2024 23:46:40.344] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 1359, old count: 1359, new count: 1360, removed stale: 0, written: 0

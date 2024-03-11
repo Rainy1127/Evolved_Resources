@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "signalum",
+  "ingredient": {
+    "item": "evolved_resources:signalum_dust"
+  },
+  "result": "evolved_resources:signalum_ingot"
+}

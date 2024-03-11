@@ -40,6 +40,7 @@ public class ModTags {
         public static final TagKey<Item> GEMS = forgeTag("gems");
         public static final TagKey<Item> NUGGETS = forgeTag("nuggets");
         public static final TagKey<Item> INGOTS = forgeTag("ingots");
+        public static final TagKey<Item> RAW_MATERIALS = forgeTag("raw_materials");
 
 
         private static TagKey<Item> tag(String name) {

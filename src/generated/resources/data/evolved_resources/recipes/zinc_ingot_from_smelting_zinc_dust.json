@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "zinc",
+  "ingredient": {
+    "item": "evolved_resources:zinc_dust"
+  },
+  "result": "evolved_resources:zinc_ingot"
+}

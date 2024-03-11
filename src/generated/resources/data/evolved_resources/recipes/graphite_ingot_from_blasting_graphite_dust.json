@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "graphite",
+  "ingredient": {
+    "item": "evolved_resources:graphite_dust"
+  },
+  "result": "evolved_resources:graphite_ingot"
+}

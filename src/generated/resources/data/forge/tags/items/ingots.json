@@ -1,0 +1,28 @@
+{
+  "values": [
+    "evolved_resources:aluminum_ingot",
+    "evolved_resources:andesite_alloy_ingot",
+    "evolved_resources:brass_ingot",
+    "evolved_resources:bronze_ingot",
+    "evolved_resources:constantan_ingot",
+    "evolved_resources:electrum_ingot",
+    "evolved_resources:enderium_ingot",
+    "evolved_resources:graphite_ingot",
+    "evolved_resources:invar_ingot",
+    "evolved_resources:iridium_ingot",
+    "evolved_resources:iron_compressed_ingot",
+    "evolved_resources:lead_ingot",
+    "evolved_resources:lumium_ingot",
+    "evolved_resources:nickel_ingot",
+    "evolved_resources:osmium_ingot",
+    "evolved_resources:platinum_ingot",
+    "evolved_resources:refined_glowstone_ingot",
+    "evolved_resources:refined_obsidian_ingot",
+    "evolved_resources:rose_gold_ingot",
+    "evolved_resources:signalum_ingot",
+    "evolved_resources:silver_ingot",
+    "evolved_resources:steel_ingot",
+    "evolved_resources:tin_ingot",
+    "evolved_resources:zinc_ingot"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "rose_gold",
+  "ingredient": {
+    "item": "evolved_resources:rose_gold_dust"
+  },
+  "result": "evolved_resources:rose_gold_ingot"
+}
