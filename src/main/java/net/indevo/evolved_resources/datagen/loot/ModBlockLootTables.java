@@ -71,16 +71,16 @@ public class ModBlockLootTables extends BlockLootSubProvider {
                 block -> createCopperLikeOreDrops(ModBlocks.Deepslate_Aluminum_Ore.get(), ModItems.Raw_Aluminum.get()));
 
         this.add(ModBlocks.Apatite_Ore.get(),
-                block -> createCopperLikeOreDrops(ModBlocks.Apatite_Ore.get(), ModItems.Apatite.get()));
+                block -> createGemLikeOreDrops(ModBlocks.Apatite_Ore.get(), ModItems.Apatite.get()));
 
         this.add(ModBlocks.Cinnabar_Ore.get(),
-                block -> createCopperLikeOreDrops(ModBlocks.Cinnabar_Ore.get(), ModItems.Cinnabar.get()));
+                block -> createGemLikeOreDrops(ModBlocks.Cinnabar_Ore.get(), ModItems.Cinnabar.get()));
 
         this.add(ModBlocks.Deepslate_Apatite_Ore.get(),
-                block -> createCopperLikeOreDrops(ModBlocks.Deepslate_Apatite_Ore.get(), ModItems.Apatite.get()));
+                block -> createGemLikeOreDrops(ModBlocks.Deepslate_Apatite_Ore.get(), ModItems.Apatite.get()));
 
         this.add(ModBlocks.Deepslate_Cinnabar_Ore.get(),
-                block -> createCopperLikeOreDrops(ModBlocks.Deepslate_Cinnabar_Ore.get(), ModItems.Cinnabar.get()));
+                block -> createGemLikeOreDrops(ModBlocks.Deepslate_Cinnabar_Ore.get(), ModItems.Cinnabar.get()));
 
         this.add(ModBlocks.Deepslate_Iridium_Ore.get(),
                 block -> createCopperLikeOreDrops(ModBlocks.Deepslate_Iridium_Ore.get(), ModItems.Raw_Iridium.get()));
@@ -98,10 +98,10 @@ public class ModBlockLootTables extends BlockLootSubProvider {
                 block -> createCopperLikeOreDrops(ModBlocks.Deepslate_Platinum_Ore.get(), ModItems.Raw_Platinum.get()));
 
         this.add(ModBlocks.Deepslate_Ruby_Ore.get(),
-                block -> createCopperLikeOreDrops(ModBlocks.Deepslate_Ruby_Ore.get(), ModItems.Ruby.get()));
+                block -> createGemLikeOreDrops(ModBlocks.Deepslate_Ruby_Ore.get(), ModItems.Ruby.get()));
 
         this.add(ModBlocks.Deepslate_Sapphire_Ore.get(),
-                block -> createCopperLikeOreDrops(ModBlocks.Deepslate_Sapphire_Ore.get(), ModItems.Sapphire.get()));
+                block -> createGemLikeOreDrops(ModBlocks.Deepslate_Sapphire_Ore.get(), ModItems.Sapphire.get()));
 
         this.add(ModBlocks.Deepslate_Silver_Ore.get(),
                 block -> createCopperLikeOreDrops(ModBlocks.Deepslate_Silver_Ore.get(), ModItems.Raw_Silver.get()));
@@ -131,10 +131,10 @@ public class ModBlockLootTables extends BlockLootSubProvider {
                 block -> createCopperLikeOreDrops(ModBlocks.Platinum_Ore.get(), ModItems.Raw_Platinum.get()));
 
         this.add(ModBlocks.Ruby_Ore.get(),
-                block -> createCopperLikeOreDrops(ModBlocks.Ruby_Ore.get(), ModItems.Ruby.get()));
+                block -> createGemLikeOreDrops(ModBlocks.Ruby_Ore.get(), ModItems.Ruby.get()));
 
         this.add(ModBlocks.Sapphire_Ore.get(),
-                block -> createCopperLikeOreDrops(ModBlocks.Sapphire_Ore.get(), ModItems.Sapphire.get()));
+                block -> createGemLikeOreDrops(ModBlocks.Sapphire_Ore.get(), ModItems.Sapphire.get()));
 
         this.add(ModBlocks.Silver_Ore.get(),
                 block -> createCopperLikeOreDrops(ModBlocks.Silver_Ore.get(), ModItems.Raw_Silver.get()));
@@ -154,7 +154,15 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         return createSilkTouchDispatchTable(pBlock,
                 this.applyExplosionDecay(pBlock,
                         LootItem.lootTableItem(item)
-                                .apply(SetItemCountFunction.setCount(UniformGenerator.between(2.0F, 5.0F)))
+                                .apply(SetItemCountFunction.setCount(UniformGenerator.between(1.0F, 1.0F)))
+                                .apply(ApplyBonusCount.addOreBonusCount(Enchantments.BLOCK_FORTUNE))));
+    }
+
+    protected LootTable.Builder createGemLikeOreDrops(Block pBlock, Item item) {
+        return createSilkTouchDispatchTable(pBlock,
+                this.applyExplosionDecay(pBlock,
+                        LootItem.lootTableItem(item)
+                                .apply(SetItemCountFunction.setCount(UniformGenerator.between(1.0F, 3.0F)))
                                 .apply(ApplyBonusCount.addOreBonusCount(Enchantments.BLOCK_FORTUNE))));
     }
 
