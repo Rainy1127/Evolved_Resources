@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      {
+        "tag": "forge:ores/aluminum"
+      }
+    ],
+    [
+      {
+        "tag": "forge:hammers"
+      }
+    ]
+  ],
+  "result": {
+    "item": "realistic_metals:aluminum_dust",
+    "count": 1
+  }
+}

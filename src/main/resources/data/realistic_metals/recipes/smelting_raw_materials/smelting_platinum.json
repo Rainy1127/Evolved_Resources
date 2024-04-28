@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "realistic_metals:raw_platinum"
+    }
+  ],
+  "result": "realistic_metals:platinum_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

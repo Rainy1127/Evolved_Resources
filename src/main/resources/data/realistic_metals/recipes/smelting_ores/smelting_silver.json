@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "tag": "forge:ores/silver"
+    }
+  ],
+  "result": "realistic_metals:silver_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

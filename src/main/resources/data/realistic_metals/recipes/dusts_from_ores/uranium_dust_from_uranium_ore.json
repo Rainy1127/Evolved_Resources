@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:ores/uranium"
+    },
+    {
+      "tag": "forge:hammers"
+    }
+  ],
+  "result": {
+    "item": "realistic_metals:uranium_dust",
+    "count": 1
+  },
+  "show_notification": true
+}

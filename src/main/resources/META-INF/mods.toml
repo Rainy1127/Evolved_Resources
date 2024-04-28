@@ -7,18 +7,18 @@ license="MIT"
 
 [[mods]]
 
-modId="evolved_resources"
+modId="realistic_metals"
 
-version="1.1.8"
+version="1.2.0"
 
-displayName="Evolved Resources"
+displayName="Realistic Metals"
 
 authors="IndEvo Studio"
 
 
 description='''Mod created to unify ores, alloys and materials from different mods for Modpacks.'''
 
-[[dependencies.evolved_resources]]
+[[dependencies.realistic_metals]]
 
 modId="forge"
 
@@ -30,7 +30,7 @@ ordering="NONE"
 
 side="BOTH"
 
-[[dependencies.evolved_resources]]
+[[dependencies.realistic_metals]]
 modId="minecraft"
 mandatory=true
 

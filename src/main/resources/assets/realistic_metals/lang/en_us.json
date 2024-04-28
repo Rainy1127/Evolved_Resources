@@ -1,0 +1,433 @@
+{
+  "block.realistic_metals.platinum_ore": "Platinum Ore",
+  "block.realistic_metals.platinum_block": "Platinum Block",
+  "block.realistic_metals.raw_platinum_block": "Raw Platinum Block",
+  "block.realistic_metals.deepslate_platinum_ore": "Deepslate Platinum Ore",
+
+  "block.realistic_metals.silver_ore": "Silver Ore",
+  "block.realistic_metals.silver_block": "Silver Block",
+  "block.realistic_metals.raw_silver_block": "Raw Silver Block",
+  "block.realistic_metals.deepslate_silver_ore": "Deepslate Silver Ore",
+
+  "block.realistic_metals.nickel_ore": "Nickel Ore",
+  "block.realistic_metals.nickel_block": "Nickel Block",
+  "block.realistic_metals.raw_nickel_block": "Raw Nickel Block",
+  "block.realistic_metals.deepslate_nickel_ore": "Deepslate Nickel Ore",
+
+  "block.realistic_metals.uranium_ore": "Uranium Ore",
+  "block.realistic_metals.uranium_block": "Uranium Block",
+  "block.realistic_metals.raw_uranium_block": "Raw Uranium Block",
+  "block.realistic_metals.deepslate_uranium_ore": "Deepslate Uranium Ore",
+
+  "block.realistic_metals.aluminum_ore": "Aluminum Ore",
+  "block.realistic_metals.aluminum_block": "Aluminum Block",
+  "block.realistic_metals.raw_aluminum_block": "Raw Aluminum Block",
+  "block.realistic_metals.deepslate_aluminum_ore": "Deepslate Aluminum Ore",
+
+  "block.realistic_metals.lead_ore": "Lead Ore",
+  "block.realistic_metals.lead_block": "Lead Block",
+  "block.realistic_metals.raw_lead_block": "Raw Lead Block",
+  "block.realistic_metals.deepslate_lead_ore": "Deepslate Lead Ore",
+
+  "block.realistic_metals.ruby_ore": "Ruby Ore",
+  "block.realistic_metals.ruby_block": "Ruby Block",
+  "block.realistic_metals.deepslate_ruby_ore": "Deepslate Ruby Ore",
+
+  "block.realistic_metals.sapphire_ore": "Sapphire Ore",
+  "block.realistic_metals.sapphire_block": "Sapphire Block",
+  "block.realistic_metals.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+
+  "block.realistic_metals.osmium_ore": "Osmium Ore",
+  "block.realistic_metals.osmium_block": "Osmium Block",
+  "block.realistic_metals.raw_osmium_block": "Raw Osmium Block",
+  "block.realistic_metals.deepslate_osmium_ore": "Deepslate Osmium Ore",
+
+  "block.realistic_metals.tin_ore": "Tin Ore",
+  "block.realistic_metals.tin_block": "Tin Block",
+  "block.realistic_metals.raw_tin_block": "Raw Tin Block",
+  "block.realistic_metals.deepslate_tin_ore": "Deepslate Tin Ore",
+
+  "block.realistic_metals.zinc_ore": "Zinc Ore",
+  "block.realistic_metals.zinc_block": "Zinc Block",
+  "block.realistic_metals.raw_zinc_block": "Raw Zinc Block",
+  "block.realistic_metals.deepslate_zinc_ore": "Deepslate Zinc Ore",
+
+  "block.realistic_metals.iridium_ore": "Iridium Ore",
+  "block.realistic_metals.iridium_block": "Iridium Block",
+  "block.realistic_metals.raw_iridium_block": "Raw Iridium Block",
+  "block.realistic_metals.deepslate_iridium_ore": "Deepslate Iridium Ore",
+
+  "block.realistic_metals.neodymium_ore": "Neodymium Ore",
+  "block.realistic_metals.neodymium_block": "Neodymium Block",
+  "block.realistic_metals.raw_neodymium_block": "Raw Neodymium Block",
+  "block.realistic_metals.deepslate_neodymium_ore": "Deepslate Neodymium Ore",
+
+  "block.realistic_metals.apatite_ore": "Apatite Ore",
+  "block.realistic_metals.apatite_block": "Apatite Block",
+  "block.realistic_metals.deepslate_apatite_ore": "Deepslate Apatite Ore",
+
+  "block.realistic_metals.cinnabar_ore": "Cinnabar Ore",
+  "block.realistic_metals.cinnabar_block": "Cinnabar Block",
+  "block.realistic_metals.deepslate_cinnabar_ore": "Deepslate Cinnabar Ore",
+
+  "block.realistic_metals.bronze_block": "Bronze Block",
+
+  "block.realistic_metals.constantan_block": "Constantan Block",
+
+  "block.realistic_metals.invar_block": "Invar Block",
+
+  "block.realistic_metals.signalum_block": "Signalum Block",
+
+  "block.realistic_metals.refined_obsidian_block": "Refined Obsidian Block",
+
+  "block.realistic_metals.refined_glowstone_block": "Refined Glowstone Block",
+
+  "block.realistic_metals.brass_block": "Brass Block",
+
+  "block.realistic_metals.electrum_block": "Electrum Block",
+
+  "block.realistic_metals.enderium_block": "Enderium Block",
+
+  "block.realistic_metals.steel_block": "Steel Block",
+
+  "block.realistic_metals.andesite_alloy_block": "Andesite Alloy Block",
+
+  "block.realistic_metals.lumium_block": "Lumium Block",
+
+  "block.realistic_metals.rose_gold_block": "Rose Gold Block",
+
+  "block.realistic_metals.graphite_block": "Graphite Block",
+
+  "block.realistic_metals.quartz_enriched_iron_block": "Quartz Enriched Iron Block",
+
+  "block.realistic_metals.iron_compressed_block": "Iron Compressed Block",
+
+  "item.realistic_metals.raw_platinum": "Raw Platinum",
+  "item.realistic_metals.platinum_ingot": "Platinum Ingot",
+  "item.realistic_metals.platinum_nugget": "Platinum Nugget",
+  "item.realistic_metals.platinum_plate": "Platinum Plate",
+  "item.realistic_metals.platinum_gear": "Platinum Gear",
+  "item.realistic_metals.platinum_dust": "Platinum Dust",
+  "item.realistic_metals.platinum_coin": "Platinum Coin",
+  "item.realistic_metals.platinum_rod": "Platinum Rod",
+
+  "item.realistic_metals.raw_silver": "Raw Silver",
+  "item.realistic_metals.silver_ingot": "Silver Ingot",
+  "item.realistic_metals.silver_nugget": "Silver Nugget",
+  "item.realistic_metals.silver_plate": "Silver Plate",
+  "item.realistic_metals.silver_gear": "Silver Gear",
+  "item.realistic_metals.silver_dust": "Silver Dust",
+  "item.realistic_metals.silver_coin": "Silver Coin",
+  "item.realistic_metals.silver_rod": "Silver Rod",
+
+  "item.realistic_metals.raw_nickel": "Raw Nickel",
+  "item.realistic_metals.nickel_ingot": "Nickel Ingot",
+  "item.realistic_metals.nickel_nugget": "Nickel Nugget",
+  "item.realistic_metals.nickel_plate": "Nickel Plate",
+  "item.realistic_metals.nickel_gear": "Nickel Gear",
+  "item.realistic_metals.nickel_dust": "Nickel Dust",
+  "item.realistic_metals.nickel_coin": "Nickel Coin",
+  "item.realistic_metals.nickel_rod": "Nickel Rod",
+
+  "item.realistic_metals.raw_uranium": "Raw Uranium",
+  "item.realistic_metals.uranium_ingot": "Uranium Ingot",
+  "item.realistic_metals.uranium_nugget": "Uranium Nugget",
+  "item.realistic_metals.uranium_plate": "Uranium Plate",
+  "item.realistic_metals.uranium_gear": "Uranium Gear",
+  "item.realistic_metals.uranium_dust": "Uranium Dust",
+  "item.realistic_metals.uranium_coin": "Uranium Coin",
+  "item.realistic_metals.uranium_rod": "Uranium Rod",
+
+  "item.realistic_metals.raw_aluminum": "Raw Aluminum",
+  "item.realistic_metals.aluminum_ingot": "Aluminum Ingot",
+  "item.realistic_metals.aluminum_nugget": "Aluminum Nugget",
+  "item.realistic_metals.aluminum_plate": "Aluminum Plate",
+  "item.realistic_metals.aluminum_gear": "Aluminum Gear",
+  "item.realistic_metals.aluminum_dust": "Aluminum Dust",
+  "item.realistic_metals.aluminum_coin": "Aluminum Coin",
+  "item.realistic_metals.aluminum_rod": "Aluminum Rod",
+
+  "item.realistic_metals.raw_lead": "Raw Lead",
+  "item.realistic_metals.lead_ingot": "Lead Ingot",
+  "item.realistic_metals.lead_nugget": "Lead Nugget",
+  "item.realistic_metals.lead_plate": "Lead Plate",
+  "item.realistic_metals.lead_gear": "Lead Gear",
+  "item.realistic_metals.lead_dust": "Lead Dust",
+  "item.realistic_metals.lead_coin": "Lead Coin",
+  "item.realistic_metals.lead_rod": "Lead Rod",
+
+  "item.realistic_metals.ruby": "Ruby",
+  "item.realistic_metals.ruby_plate": "Ruby Plate",
+  "item.realistic_metals.ruby_gear": "Ruby Gear",
+  "item.realistic_metals.ruby_dust": "Ruby Dust",
+  "item.realistic_metals.ruby_coin": "Ruby Coin",
+  "item.realistic_metals.ruby_rod": "Ruby Rod",
+  "item.realistic_metals.polished_ruby": "Polished Ruby",
+
+  "item.realistic_metals.enriched_uranium": "Enriched Uranium",
+  "item.realistic_metals.enriched_uranium_dust": "Enriched Uranium Dust",
+
+  "item.realistic_metals.sapphire": "Sapphire",
+  "item.realistic_metals.sapphire_plate": "Sapphire Plate",
+  "item.realistic_metals.sapphire_gear": "Sapphire Gear",
+  "item.realistic_metals.sapphire_dust": "Sapphire Dust",
+  "item.realistic_metals.sapphire_coin": "Sapphire Coin",
+  "item.realistic_metals.sapphire_rod": "Sapphire Rod",
+  "item.realistic_metals.polished_sapphire": "Polished Sapphire",
+
+  "item.realistic_metals.raw_osmium": "Raw Osmium",
+  "item.realistic_metals.osmium_ingot": "Osmium Ingot",
+  "item.realistic_metals.osmium_nugget": "Osmium Nugget",
+  "item.realistic_metals.osmium_plate": "Osmium Plate",
+  "item.realistic_metals.osmium_gear": "Osmium Gear",
+  "item.realistic_metals.osmium_dust": "Osmium Dust",
+  "item.realistic_metals.osmium_coin": "Osmium Coin",
+  "item.realistic_metals.osmium_rod": "Osmium Rod",
+
+  "item.realistic_metals.raw_tin": "Raw Tin",
+  "item.realistic_metals.tin_ingot": "Tin Ingot",
+  "item.realistic_metals.tin_nugget": "Tin Nugget",
+  "item.realistic_metals.tin_plate": "Tin Plate",
+  "item.realistic_metals.tin_gear": "Tin Gear",
+  "item.realistic_metals.tin_dust": "Tin Dust",
+  "item.realistic_metals.tin_coin": "Tin Coin",
+  "item.realistic_metals.tin_rod": "Tin Rod",
+
+  "item.realistic_metals.raw_zinc": "Raw Zinc",
+  "item.realistic_metals.zinc_ingot": "Zinc Ingot",
+  "item.realistic_metals.zinc_nugget": "Zinc Nugget",
+  "item.realistic_metals.zinc_plate": "Zinc Plate",
+  "item.realistic_metals.zinc_gear": "Zinc Gear",
+  "item.realistic_metals.zinc_dust": "Zinc Dust",
+  "item.realistic_metals.zinc_coin": "Zinc Coin",
+  "item.realistic_metals.zinc_rod": "Zinc Rod",
+
+  "item.realistic_metals.raw_iridium": "Raw Iridium",
+  "item.realistic_metals.iridium_ingot": "Iridium Ingot",
+  "item.realistic_metals.iridium_nugget": "Iridium Nugget",
+  "item.realistic_metals.iridium_plate": "Iridium Plate",
+  "item.realistic_metals.iridium_gear": "Iridium Gear",
+  "item.realistic_metals.iridium_dust": "Iridium Dust",
+  "item.realistic_metals.iridium_coin": "Iridium Coin",
+  "item.realistic_metals.iridium_rod": "Iridium Rod",
+
+  "item.realistic_metals.iron_plate": "Iron Plate",
+  "item.realistic_metals.iron_gear": "Iron Gear",
+  "item.realistic_metals.iron_dust": "Iron Dust",
+  "item.realistic_metals.iron_coin": "Iron Coin",
+  "item.realistic_metals.iron_rod": "Iron Rod",
+
+  "item.realistic_metals.copper_nugget": "Copper Nugget",
+  "item.realistic_metals.copper_plate": "Copper Plate",
+  "item.realistic_metals.copper_gear": "Copper Gear",
+  "item.realistic_metals.copper_dust": "Copper Dust",
+  "item.realistic_metals.copper_coin": "Copper Coin",
+  "item.realistic_metals.copper_rod": "Copper Rod",
+
+  "item.realistic_metals.gold_plate": "Gold Plate",
+  "item.realistic_metals.gold_gear": "Gold Gear",
+  "item.realistic_metals.gold_dust": "Gold Dust",
+  "item.realistic_metals.gold_coin": "Gold Coin",
+  "item.realistic_metals.gold_rod": "Gold Rod",
+
+  "item.realistic_metals.netherite_nugget": "Netherite Nugget",
+  "item.realistic_metals.netherite_plate": "Netherite Plate",
+  "item.realistic_metals.netherite_gear": "Netherite Gear",
+  "item.realistic_metals.netherite_dust": "Netherite Dust",
+  "item.realistic_metals.netherite_coin": "Netherite Coin",
+  "item.realistic_metals.netherite_rod": "Netherite Rod",
+
+  "item.realistic_metals.apatite": "Apatite",
+  "item.realistic_metals.apatite_plate": "Apatite Plate",
+  "item.realistic_metals.apatite_dust": "Apatite Dust",
+  "item.realistic_metals.apatite_coin": "Apatite Coin",
+  "item.realistic_metals.polished_apatite": "Polished Apatite",
+
+  "item.realistic_metals.cinnabar": "Cinnabar",
+  "item.realistic_metals.cinnabar_plate": "Cinnabar Plate",
+  "item.realistic_metals.cinnabar_dust": "Cinnabar Dust",
+  "item.realistic_metals.cinnabar_coin": "Cinnabar Coin",
+  "item.realistic_metals.cinnabar_rod": "Cinnabar Rod",
+  "item.realistic_metals.polished_cinnabar": "Polished Cinnabar",
+
+  "item.realistic_metals.diamond_plate": "Diamond Plate",
+  "item.realistic_metals.diamond_gear": "Diamond Gear",
+  "item.realistic_metals.diamond_dust": "Diamond Dust",
+  "item.realistic_metals.diamond_coin": "Diamond Coin",
+  "item.realistic_metals.polished_diamond": "Polished Diamond",
+
+  "item.realistic_metals.emerald_plate": "Emerald Plate",
+  "item.realistic_metals.emerald_gear": "Emerald Gear",
+  "item.realistic_metals.emerald_dust": "Emerald Dust",
+  "item.realistic_metals.emerald_coin": "Emerald Coin",
+  "item.realistic_metals.polished_emerald": "Polished Emerald",
+
+  "item.realistic_metals.lapis_lazuli_plate": "Lapis Lazuli Plate",
+  "item.realistic_metals.lapis_lazuli_gear": "Lapis Lazuli Gear",
+  "item.realistic_metals.lapis_lazuli_dust": "Lapis Lazuli Dust",
+  "item.realistic_metals.lapis_lazuli_coin": "Lapis Lazuli Coin",
+  "item.realistic_metals.polished_lapis_lazuli": "Polished Lapis Lazuli",
+
+  "item.realistic_metals.quartz_plate": "Quartz Plate",
+  "item.realistic_metals.quartz_gear": "Quartz Gear",
+  "item.realistic_metals.quartz_dust": "Quartz Dust",
+  "item.realistic_metals.quartz_coin": "Quartz Coin",
+  "item.realistic_metals.polished_quartz": "Polished Quartz",
+
+  "item.realistic_metals.bronze_ingot": "Bronze Ingot",
+  "item.realistic_metals.bronze_nugget": "Bronze Nugget",
+  "item.realistic_metals.bronze_plate": "Bronze Plate",
+  "item.realistic_metals.bronze_gear": "Bronze Gear",
+  "item.realistic_metals.bronze_dust": "Bronze Dust",
+  "item.realistic_metals.bronze_coin": "Bronze Coin",
+  "item.realistic_metals.bronze_rod": "Bronze Rod",
+
+  "item.realistic_metals.constantan_ingot": "Constantan Ingot",
+  "item.realistic_metals.constantan_nugget": "Constantan Nugget",
+  "item.realistic_metals.constantan_plate": "Constantan Plate",
+  "item.realistic_metals.constantan_gear": "Constantan Gear",
+  "item.realistic_metals.constantan_dust": "Constantan Dust",
+  "item.realistic_metals.constantan_coin": "Constantan Coin",
+  "item.realistic_metals.constantan_rod": "Constantan Rod",
+
+  "item.realistic_metals.invar_ingot": "Invar Ingot",
+  "item.realistic_metals.invar_nugget": "Invar Nugget",
+  "item.realistic_metals.invar_plate": "Invar Plate",
+  "item.realistic_metals.invar_gear": "Invar Gear",
+  "item.realistic_metals.invar_dust": "Invar Dust",
+  "item.realistic_metals.invar_coin": "Invar Coin",
+  "item.realistic_metals.invar_rod": "Invar Rod",
+
+  "item.realistic_metals.signalum_ingot": "Signalum Ingot",
+  "item.realistic_metals.signalum_nugget": "Signalum Nugget",
+  "item.realistic_metals.signalum_plate": "Signalum Plate",
+  "item.realistic_metals.signalum_gear": "Signalum Gear",
+  "item.realistic_metals.signalum_dust": "Signalum Dust",
+  "item.realistic_metals.signalum_coin": "Signalum Coin",
+  "item.realistic_metals.signalum_rod": "Signalum Rod",
+
+  "item.realistic_metals.refined_obsidian_ingot": "Refined Obsidian Ingot",
+  "item.realistic_metals.refined_obsidian_nugget": "Refined Obsidian Nugget",
+  "item.realistic_metals.refined_obsidian_plate": "Refined Obsidian Plate",
+  "item.realistic_metals.refined_obsidian_gear": "Refined Obsidian Gear",
+  "item.realistic_metals.refined_obsidian_dust": "Refined Obsidian Dust",
+  "item.realistic_metals.refined_obsidian_coin": "Refined Obsidian Coin",
+  "item.realistic_metals.refined_obsidian_rod": "Refined Obsidian Rod",
+
+  "item.realistic_metals.refined_glowstone_ingot": "Refined Glowstone Ingot",
+  "item.realistic_metals.refined_glowstone_nugget": "Refined Glowstone Nugget",
+  "item.realistic_metals.refined_glowstone_plate": "Refined Glowstone Plate",
+  "item.realistic_metals.refined_glowstone_gear": "Refined Glowstone Gear",
+  "item.realistic_metals.refined_glowstone_dust": "Refined Glowstone Dust",
+  "item.realistic_metals.refined_glowstone_coin": "Refined Glowstone Coin",
+  "item.realistic_metals.refined_glowstone_rod": "Refined Glowstone Rod",
+
+  "item.realistic_metals.brass_ingot": "Brass Ingot",
+  "item.realistic_metals.brass_nugget": "Brass Nugget",
+  "item.realistic_metals.brass_plate": "Brass Plate",
+  "item.realistic_metals.brass_gear": "Brass Gear",
+  "item.realistic_metals.brass_dust": "Brass Dust",
+  "item.realistic_metals.brass_coin": "Brass Coin",
+  "item.realistic_metals.brass_rod": "Brass Rod",
+
+  "item.realistic_metals.electrum_ingot": "Electrum Ingot",
+  "item.realistic_metals.electrum_nugget": "Electrum Nugget",
+  "item.realistic_metals.electrum_plate": "Electrum Plate",
+  "item.realistic_metals.electrum_gear": "Electrum Gear",
+  "item.realistic_metals.electrum_dust": "Electrum Dust",
+  "item.realistic_metals.electrum_coin": "Electrum Coin",
+  "item.realistic_metals.electrum_rod": "Electrum Rod",
+
+  "item.realistic_metals.enderium_ingot": "Enderium Ingot",
+  "item.realistic_metals.enderium_nugget": "Enderium Nugget",
+  "item.realistic_metals.enderium_plate": "Enderium Plate",
+  "item.realistic_metals.enderium_gear": "Enderium Gear",
+  "item.realistic_metals.enderium_dust": "Enderium Dust",
+  "item.realistic_metals.enderium_coin": "Enderium Coin",
+  "item.realistic_metals.enderium_rod": "Enderium Rod",
+
+  "item.realistic_metals.steel_ingot": "Steel Ingot",
+  "item.realistic_metals.steel_nugget": "Steel Nugget",
+  "item.realistic_metals.steel_plate": "Steel Plate",
+  "item.realistic_metals.steel_gear": "Steel Gear",
+  "item.realistic_metals.steel_dust": "Steel Dust",
+  "item.realistic_metals.steel_coin": "Steel Coin",
+  "item.realistic_metals.steel_rod": "Steel Rod",
+
+  "item.realistic_metals.andesite_alloy_ingot": "Andesite Alloy Ingot",
+  "item.realistic_metals.andesite_alloy_nugget": "Andesite Alloy Nugget",
+  "item.realistic_metals.andesite_alloy_plate": "Andesite Alloy Plate",
+  "item.realistic_metals.andesite_alloy_gear": "Andesite Alloy Gear",
+  "item.realistic_metals.andesite_alloy_dust": "Andesite Alloy Dust",
+  "item.realistic_metals.andesite_alloy_coin": "Andesite Alloy Coin",
+  "item.realistic_metals.andesite_alloy_rod": "Andesite Alloy Rod",
+
+  "item.realistic_metals.lumium_ingot": "Lumium Ingot",
+  "item.realistic_metals.lumium_nugget": "Lumium Nugget",
+  "item.realistic_metals.lumium_plate": "Lumium Plate",
+  "item.realistic_metals.lumium_gear": "Lumium Gear",
+  "item.realistic_metals.lumium_dust": "Lumium Dust",
+  "item.realistic_metals.lumium_coin": "Lumium Coin",
+  "item.realistic_metals.lumium_rod": "Lumium Rod",
+
+  "item.realistic_metals.rose_gold_ingot": "Rose Gold Ingot",
+  "item.realistic_metals.rose_gold_nugget": "Rose Gold Nugget",
+  "item.realistic_metals.rose_gold_plate": "Rose Gold Plate",
+  "item.realistic_metals.rose_gold_gear":  "Rose Gold Gear",
+  "item.realistic_metals.rose_gold_dust": "Rose Gold Dust",
+  "item.realistic_metals.rose_gold_coin": "Rose Gold Coin",
+  "item.realistic_metals.rose_gold_rod": "Rose Gold Rod",
+
+  "item.realistic_metals.iron_compressed_ingot": "Iron Compressed Ingot",
+  "item.realistic_metals.iron_compressed_nugget": "Iron Compressed Nugget",
+  "item.realistic_metals.iron_compressed_plate": "Iron Compressed Plate",
+  "item.realistic_metals.iron_compressed_gear":  "Iron Compressed Gear",
+  "item.realistic_metals.iron_compressed_dust": "Iron Compressed Dust",
+  "item.realistic_metals.iron_compressed_coin": "Iron Compressed Coin",
+  "item.realistic_metals.iron_compressed_rod": "Iron Compressed Rod",
+
+  "item.realistic_metals.graphite_ingot": "Graphite Ingot",
+  "item.realistic_metals.graphite_plate": "Graphite Plate",
+  "item.realistic_metals.graphite_dust": "Graphite Dust",
+  "item.realistic_metals.graphite_coin": "Graphite Coin",
+  "item.realistic_metals.graphite_rod": "Graphite Rod",
+
+  "item.realistic_metals.plastic_plate": "Plastic Plate",
+  "item.realistic_metals.plastic_rod": "Plastic Rod",
+
+  "item.realistic_metals.quartz_enriched_iron_ingot": "Quartz Enriched Iron Ingot",
+  "item.realistic_metals.quartz_enriched_iron_nugget": "Quartz Enriched Iron Nugget",
+  "item.realistic_metals.quartz_enriched_iron_plate": "Quartz Enriched Iron Plate",
+  "item.realistic_metals.quartz_enriched_iron_gear": "Quartz Enriched Iron Gear",
+  "item.realistic_metals.quartz_enriched_iron_dust": "Quartz Enriched Iron Dust",
+  "item.realistic_metals.quartz_enriched_iron_coin": "Quartz Enriched Iron Coin",
+  "item.realistic_metals.quartz_enriched_iron_rod": "Quartz Enriched Iron Rod",
+
+  "item.realistic_metals.coal_dust": "Coal Dust",
+
+  "item.realistic_metals.charcoal_dust": "Charcoal Dust",
+
+  "item.realistic_metals.obsidian_dust": "Obsidian Dust",
+
+  "item.realistic_metals.calcite_dust": "Calcite Dust",
+
+  "item.realistic_metals.prismarine_dust": "Prismarine Dust",
+
+  "item.realistic_metals.ender_pearl_dust": "Ender Pearl Dust",
+
+  "item.realistic_metals.netherrack_dust": "Netherrack Dust",
+
+  "item.realistic_metals.amethyst_dust": "Amethyst Dust",
+
+  "item.realistic_metals.crying_obsidian_dust": "Crying Obsidian Dust",
+
+  "item.realistic_metals.end_stone_dust": "End Stone Dust",
+
+  "item.realistic_metals.iron_hammer": "Iron Hammer",
+  "item.realistic_metals.brass_hammer": "Brass Hammer",
+  "item.realistic_metals.enderium_hammer": "Enderium Hammer",
+  "item.realistic_metals.osmium_hammer": "Osmium Hammer",
+
+
+  "creativetab.realistic_metals_tab": "Realistic Metals"
+}

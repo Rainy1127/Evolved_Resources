@@ -1,0 +1,434 @@
+{
+  "block.realistic_metals.platinum_ore": "Платиновая руда",
+  "block.realistic_metals.platinum_block": "Платиновый блок",
+  "block.realistic_metals.raw_platinum_block": "Блок рудной платины",
+  "block.realistic_metals.deepslate_platinum_ore": "Платиноносный глубинный сланец",
+
+  "block.realistic_metals.silver_ore": "Серебряная руда",
+  "block.realistic_metals.silver_block": "Серебряный блок",
+  "block.realistic_metals.raw_silver_block": "Блок рудного серебра",
+  "block.realistic_metals.deepslate_silver_ore": "Сереброносный глубинный сланец",
+
+  "block.realistic_metals.nickel_ore": "Никелевая руда",
+  "block.realistic_metals.nickel_block": "Никелевый блок",
+  "block.realistic_metals.raw_nickel_block": "Блок рудного никеля",
+  "block.realistic_metals.deepslate_nickel_ore": "Никеленосный глубинный сланец",
+
+  "block.realistic_metals.uranium_ore": "Урановая руда",
+  "block.realistic_metals.uranium_block": "Урановый блок",
+  "block.realistic_metals.raw_uranium_block": "Блок рудного урана",
+  "block.realistic_metals.deepslate_uranium_ore": "Ураноносный глубинный сланец",
+
+  "block.realistic_metals.aluminum_ore": "Алюминиевая руда",
+  "block.realistic_metals.aluminum_block": "Алюминиевый блок",
+  "block.realistic_metals.raw_aluminum_block": "Блок рудного алюминия",
+  "block.realistic_metals.deepslate_aluminum_ore": "Алюминиеносный глубинный сланец",
+
+  "block.realistic_metals.lead_ore": "Свинцовая руда",
+  "block.realistic_metals.lead_block": "Свинцовый блок",
+  "block.realistic_metals.raw_lead_block": "Блок рудного свинца",
+  "block.realistic_metals.deepslate_lead_ore": "Свинцовоносный глубинный сланец",
+
+  "block.realistic_metals.ruby_ore": "Рубиновая руда",
+  "block.realistic_metals.ruby_block": "Рубиновый блок",
+  "block.realistic_metals.deepslate_ruby_ore": "Рубиноносный глубинный сланец",
+
+  "block.realistic_metals.sapphire_ore": "Сапфировая руда",
+  "block.realistic_metals.sapphire_block": "Сапфировый блок",
+  "block.realistic_metals.deepslate_sapphire_ore": "Сапфироносный глубинный сланец",
+
+  "block.realistic_metals.osmium_ore": "Осмиевая руда",
+  "block.realistic_metals.osmium_block": "Осмиевый блок",
+  "block.realistic_metals.raw_osmium_block": "Блок рудного осмия",
+  "block.realistic_metals.deepslate_osmium_ore": "Осмиеносный глубинный сланец",
+
+  "block.realistic_metals.tin_ore": "Оловянная руда",
+  "block.realistic_metals.tin_block": "Оловянный блок",
+  "block.realistic_metals.raw_tin_block": "Блок рудного олова",
+  "block.realistic_metals.deepslate_tin_ore": "Оловоносный глубинный сланец",
+
+  "block.realistic_metals.zinc_ore": "Цинковая руда",
+  "block.realistic_metals.zinc_block": "Цинковый блок",
+  "block.realistic_metals.raw_zinc_block": "Блок рудного цинка",
+  "block.realistic_metals.deepslate_zinc_ore": "Цинконосный глубинный сланец",
+
+  "block.realistic_metals.iridium_ore": "Иридиевая руда",
+  "block.realistic_metals.iridium_block": "Иридиевый блок",
+  "block.realistic_metals.raw_iridium_block": "Блок рудного иридия",
+  "block.realistic_metals.deepslate_iridium_ore": "Иридионосный глубинный сланец",
+
+  "block.realistic_metals.neodymium_ore": "Неодимовая руда",
+  "block.realistic_metals.neodymium_block": "Неодимовый блок",
+  "block.realistic_metals.raw_neodymium_block": "Блок рудного неодима",
+  "block.realistic_metals.deepslate_neodymium_ore": "Неодимоносный глубинный сланец",
+
+  "block.realistic_metals.apatite_ore": "Апатитовая руда",
+  "block.realistic_metals.apatite_block": "Апатитовый блок",
+  "block.realistic_metals.deepslate_apatite_ore": "Апатитоносный глубинный сланец",
+
+  "block.realistic_metals.cinnabar_ore": "Киноварная руда",
+  "block.realistic_metals.cinnabar_block": "Киноварный блок",
+  "block.realistic_metals.deepslate_cinnabar_ore": "Киновароносный глубинный сланец",
+
+  "block.realistic_metals.bronze_block": "Бронзовый блок",
+
+  "block.realistic_metals.constantan_block": "Константановый блок",
+
+  "block.realistic_metals.invar_block": "Инваровый блок",
+
+  "block.realistic_metals.signalum_block": "Сигналумовый блок",
+
+  "block.realistic_metals.refined_obsidian_block": "Блок очищенного обсидиана",
+
+  "block.realistic_metals.refined_glowstone_block": "Блок очищенного светокамня",
+
+  "block.realistic_metals.brass_block": "Латунный блок",
+
+  "block.realistic_metals.electrum_block": "Электрумовый блок",
+
+  "block.realistic_metals.enderium_block": "Эндериумовый блок",
+
+  "block.realistic_metals.steel_block": "Стальной блок",
+
+  "block.realistic_metals.andesite_alloy_block": "Блок андезитового сплава",
+
+  "block.realistic_metals.lumium_block": "Люмиевый блок",
+
+  "block.realistic_metals.rose_gold_block": "Блок розового золота",
+
+  "block.realistic_metals.graphite_block": "Графитовый блок",
+
+  "block.realistic_metals.quartz_enriched_iron_block": "Блок обогащённого кварцом железа",
+
+  "block.realistic_metals.iron_compressed_block": "Блок прессованого железа",
+
+  "item.realistic_metals.raw_platinum": "Рудная платина",
+  "item.realistic_metals.platinum_ingot": "Платиновый слиток",
+  "item.realistic_metals.platinum_nugget": "Кусочек платины",
+  "item.realistic_metals.platinum_plate": "Платиновая пластина",
+  "item.realistic_metals.platinum_gear": "Платиновая шестерня",
+  "item.realistic_metals.platinum_dust": "Платиновая пыль",
+  "item.realistic_metals.platinum_coin": "Платиновая монета",
+  "item.realistic_metals.platinum_rod": "Платиновый стержень",
+
+  "item.realistic_metals.raw_silver": "Рудное серебро",
+  "item.realistic_metals.silver_ingot": "Серебряный слиток",
+  "item.realistic_metals.silver_nugget": "Кусочек серебра",
+  "item.realistic_metals.silver_plate": "Серебряная пластина",
+  "item.realistic_metals.silver_gear": "Серебряная шестерня",
+  "item.realistic_metals.silver_dust": "Серебряная пыль",
+  "item.realistic_metals.silver_coin": "Серебряная монета",
+  "item.realistic_metals.silver_rod": "Серебряный стержень",
+
+  "item.realistic_metals.raw_nickel": "Рудный никель",
+  "item.realistic_metals.nickel_ingot": "Никелевый слиток",
+  "item.realistic_metals.nickel_nugget": "Кусочек никеля",
+  "item.realistic_metals.nickel_plate": "Никелевая пластина",
+  "item.realistic_metals.nickel_gear": "Никелевая шестерня",
+  "item.realistic_metals.nickel_dust": "Никелевая пыль",
+  "item.realistic_metals.nickel_coin": "Никелевая монета",
+  "item.realistic_metals.nickel_rod": "Никелевый стержень",
+
+  "item.realistic_metals.raw_uranium": "Рудный уран",
+  "item.realistic_metals.uranium_ingot": "Урановый слиток",
+  "item.realistic_metals.uranium_nugget": "Кусочек урана",
+  "item.realistic_metals.uranium_plate": "Урановая пластина",
+  "item.realistic_metals.uranium_gear": "Урановая шестерня",
+  "item.realistic_metals.uranium_dust": "Урановая пыль",
+  "item.realistic_metals.uranium_coin": "Урановая монета",
+  "item.realistic_metals.uranium_rod": "Урановый стержень",
+
+  "item.realistic_metals.raw_aluminum": "Рудный алюминий",
+  "item.realistic_metals.aluminum_ingot": "Алюминиевый слиток",
+  "item.realistic_metals.aluminum_nugget": "Кусочек алюминия",
+  "item.realistic_metals.aluminum_plate": "Алюминиевая пластина",
+  "item.realistic_metals.aluminum_gear": "Алюминиевая шестерня",
+  "item.realistic_metals.aluminum_dust": "Алюминиевая пыль",
+  "item.realistic_metals.aluminum_coin": "Алюминиевая монета",
+  "item.realistic_metals.aluminum_rod": "Алюминиевый стержень",
+
+  "item.realistic_metals.raw_lead": "Рудный свинец",
+  "item.realistic_metals.lead_ingot": "Свинцовый слиток",
+  "item.realistic_metals.lead_nugget": "Кусочек свинца",
+  "item.realistic_metals.lead_plate": "Свинцовая пластина",
+  "item.realistic_metals.lead_gear": "Свинцовая шестерня",
+  "item.realistic_metals.lead_dust": "Свинцовая пыль",
+  "item.realistic_metals.lead_coin": "Свинцовая монета",
+  "item.realistic_metals.lead_rod": "Свинцовый стержень",
+
+  "item.realistic_metals.ruby": "Рубин",
+  "item.realistic_metals.ruby_plate": "Рубиновая пластина",
+  "item.realistic_metals.ruby_gear": "Рубиновая шестерня",
+  "item.realistic_metals.ruby_dust": "Рубиновая пыль",
+  "item.realistic_metals.ruby_coin": "Рубиновая монета",
+  "item.realistic_metals.ruby_rod": "Рубиновый стержень",
+  "item.realistic_metals.polished_ruby": "Полированный рубин",
+
+  "item.realistic_metals.enriched_uranium": "Обогащённый уран",
+  "item.realistic_metals.enriched_uranium_dust": "Пыль обогащённого урана",
+
+  "item.realistic_metals.sapphire": "Сапфир",
+  "item.realistic_metals.sapphire_plate": "Сапфировая пластина",
+  "item.realistic_metals.sapphire_gear": "Сапфировая шестерня",
+  "item.realistic_metals.sapphire_dust": "Сапфировая пыль",
+  "item.realistic_metals.sapphire_coin": "Сапфировая монета",
+  "item.realistic_metals.sapphire_rod": "Сапфировый стержень",
+  "item.realistic_metals.polished_sapphire": "Полированный сапфир",
+
+  "item.realistic_metals.raw_osmium": "Рудный осмий",
+  "item.realistic_metals.osmium_ingot": "Осмиевый слиток",
+  "item.realistic_metals.osmium_nugget": "Кусочек осмия",
+  "item.realistic_metals.osmium_plate": "Осмиевая пластина",
+  "item.realistic_metals.osmium_gear": "Осмиевая шестерня",
+  "item.realistic_metals.osmium_dust": "Осмиевая пыль",
+  "item.realistic_metals.osmium_coin": "Осмиевая монета",
+  "item.realistic_metals.osmium_rod": "Осмиевый стержень",
+
+  "item.realistic_metals.raw_tin": "Рудное олово",
+  "item.realistic_metals.tin_ingot": "Оловянный слиток",
+  "item.realistic_metals.tin_nugget": "Кусочек олова",
+  "item.realistic_metals.tin_plate": "Оловянная пластина",
+  "item.realistic_metals.tin_gear": "Оловянная шестерня",
+  "item.realistic_metals.tin_dust": "Оловянная пыль",
+  "item.realistic_metals.tin_coin": "Оловянная монета",
+  "item.realistic_metals.tin_rod": "Оловянный стержень",
+
+  "item.realistic_metals.raw_zinc": "Рудный цинк",
+  "item.realistic_metals.zinc_ingot": "Цинковый слиток",
+  "item.realistic_metals.zinc_nugget": "Кусочек цинка",
+  "item.realistic_metals.zinc_plate": "Цинковая пластина",
+  "item.realistic_metals.zinc_gear": "Цинковая шестерня",
+  "item.realistic_metals.zinc_dust": "Цинковая пыль",
+  "item.realistic_metals.zinc_coin": "Цинковая монета",
+  "item.realistic_metals.zinc_rod": "Цинковый стержень",
+
+  "item.realistic_metals.raw_iridium": "Рудный иридий",
+  "item.realistic_metals.iridium_ingot": "Иридиевый слиток",
+  "item.realistic_metals.iridium_nugget": "Кусочек иридия",
+  "item.realistic_metals.iridium_plate": "Иридиевая пластина",
+  "item.realistic_metals.iridium_gear": "Иридиевая шестерня",
+  "item.realistic_metals.iridium_dust": "Иридиевая пыль",
+  "item.realistic_metals.iridium_coin": "Иридиевая монета",
+  "item.realistic_metals.iridium_rod": "Иридиевый стержень",
+
+  "item.realistic_metals.iron_plate": "Железная пластина",
+  "item.realistic_metals.iron_gear": "Железная шестерня",
+  "item.realistic_metals.iron_dust": "Железная пыль",
+  "item.realistic_metals.iron_coin": "Железная монета",
+  "item.realistic_metals.iron_rod": "Железный стержень",
+
+  "item.realistic_metals.copper_nugget": "Кусочек меди",
+  "item.realistic_metals.copper_plate": "Медная пластина",
+  "item.realistic_metals.copper_gear": "Медная шестерня",
+  "item.realistic_metals.copper_dust": "Медная пыль",
+  "item.realistic_metals.copper_coin": "Медная монета",
+  "item.realistic_metals.copper_rod": "Медный стержень",
+
+  "item.realistic_metals.gold_plate": "Золотая пластина",
+  "item.realistic_metals.gold_gear": "Золотая шестерня",
+  "item.realistic_metals.gold_dust": "Золотая пыль",
+  "item.realistic_metals.gold_coin": "Золотая монета",
+  "item.realistic_metals.gold_rod": "Золотой стержень",
+
+  "item.realistic_metals.netherite_nugget": "Кусочек незерита",
+  "item.realistic_metals.netherite_plate": "Незеритовая пластина",
+  "item.realistic_metals.netherite_gear": "Незеритовая шестерня",
+  "item.realistic_metals.netherite_dust": "Незеритовая пыль",
+  "item.realistic_metals.netherite_coin": "Незеритовая монета",
+  "item.realistic_metals.netherite_rod": "Незеритовый стержень",
+
+  "item.realistic_metals.apatite": "Апатит",
+  "item.realistic_metals.apatite_plate": "Апатитовая пластина",
+  "item.realistic_metals.apatite_dust": "Апатитовая пыль",
+  "item.realistic_metals.apatite_coin": "Апатитовая монета",
+  "item.realistic_metals.polished_apatite": "Полированный апатит",
+
+  "item.realistic_metals.cinnabar": "Киноварь",
+  "item.realistic_metals.cinnabar_plate": "Киноварная пластина",
+  "item.realistic_metals.cinnabar_dust": "Киноварная пыль",
+  "item.realistic_metals.cinnabar_coin": "Киноварная монета",
+  "item.realistic_metals.cinnabar_rod": "Киноварный стержень",
+  "item.realistic_metals.polished_cinnabar": "Полированная киноварь",
+
+  "item.realistic_metals.diamond_plate": "Алмазная пластина",
+  "item.realistic_metals.diamond_gear": "Алмазная шестерня",
+  "item.realistic_metals.diamond_dust": "Алмазная пыль",
+  "item.realistic_metals.diamond_coin": "Алмазная монета",
+  "item.realistic_metals.polished_diamond": "Полированный алмаз",
+
+  "item.realistic_metals.emerald_plate": "Изумрудная пластина",
+  "item.realistic_metals.emerald_gear": "Изумрудная шестерня",
+  "item.realistic_metals.emerald_dust": "Изумрудная пыль",
+  "item.realistic_metals.emerald_coin": "Изумрудная монета",
+  "item.realistic_metals.polished_emerald": "Полированный изумруд",
+
+  "item.realistic_metals.lapis_lazuli_plate": "Лазуритовая пластина",
+  "item.realistic_metals.lapis_lazuli_gear": "Лазуритовая шестерня",
+  "item.realistic_metals.lapis_lazuli_dust": "Лазуритовая пыль",
+  "item.realistic_metals.lapis_lazuli_coin": "Лазуритовая монета",
+  "item.realistic_metals.polished_lapis_lazuli": "Полированный лазурит",
+
+  "item.realistic_metals.quartz_plate": "Кварцевая пластина",
+  "item.realistic_metals.quartz_gear": "Кварцевая шестерня",
+  "item.realistic_metals.quartz_dust": "Кварцевая пыль",
+  "item.realistic_metals.quartz_coin": "Кварцевая монета",
+  "item.realistic_metals.polished_quartz": "Полированный кварц",
+
+  "item.realistic_metals.bronze_ingot": "Бронзовый слиток",
+  "item.realistic_metals.bronze_nugget": "Кусочек бронзы",
+  "item.realistic_metals.bronze_plate": "Бронзовая пластина",
+  "item.realistic_metals.bronze_gear": "Бронзовая шестерня",
+  "item.realistic_metals.bronze_dust": "Бронзовая пыль",
+  "item.realistic_metals.bronze_coin": "Бронзовая монета",
+  "item.realistic_metals.bronze_rod": "Бронзовый стержень",
+
+  "item.realistic_metals.constantan_ingot": "Константановый слиток",
+  "item.realistic_metals.constantan_nugget": "Кусочек константана",
+  "item.realistic_metals.constantan_plate": "Константановая пластина",
+  "item.realistic_metals.constantan_gear": "Константановая шестерня",
+  "item.realistic_metals.constantan_dust": "Константановая пыль",
+  "item.realistic_metals.constantan_coin": "Константановая монета",
+  "item.realistic_metals.constantan_rod": "Константановый стержень",
+
+  "item.realistic_metals.invar_ingot": "Инваровый слиток",
+  "item.realistic_metals.invar_nugget": "Кусочек инвара",
+  "item.realistic_metals.invar_plate": "Инваровая пластина",
+  "item.realistic_metals.invar_gear": "Инваровая шестерня",
+  "item.realistic_metals.invar_dust": "Инваровая пыль",
+  "item.realistic_metals.invar_coin": "Инваровая монета",
+  "item.realistic_metals.invar_rod": "Инваровый стержень",
+
+  "item.realistic_metals.signalum_ingot": "Сигналумовый слиток",
+  "item.realistic_metals.signalum_nugget": "Кусочек сигналума",
+  "item.realistic_metals.signalum_plate": "Сигналумовая пластина",
+  "item.realistic_metals.signalum_gear": "Сигналумовая шестерня",
+  "item.realistic_metals.signalum_dust": "Сигналумовая пыль",
+  "item.realistic_metals.signalum_coin": "Сигналумовая монета",
+  "item.realistic_metals.signalum_rod": "Сигналумовый стержень",
+
+  "item.realistic_metals.refined_obsidian_ingot": "Слиток очищенного обсидиана",
+  "item.realistic_metals.refined_obsidian_nugget": "Кусочек очищенного обсидиана",
+  "item.realistic_metals.refined_obsidian_plate": "Пластина из очищенного обсидиана",
+  "item.realistic_metals.refined_obsidian_gear": "Шестерня из очищенного обсидиана",
+  "item.realistic_metals.refined_obsidian_dust": "Пыль очищенного обсидиана",
+  "item.realistic_metals.refined_obsidian_coin": "Монета из очищенного обсидиана",
+  "item.realistic_metals.refined_obsidian_rod": "Стержень из очищенного обсидиана",
+
+  "item.realistic_metals.refined_glowstone_ingot": "Слиток очищенного светокамня",
+  "item.realistic_metals.refined_glowstone_nugget": "Кусочек очищенного светокамня",
+  "item.realistic_metals.refined_glowstone_plate": "Пластина из очищенного светокамня",
+  "item.realistic_metals.refined_glowstone_gear": "Шестерня из очищенного светокамня",
+  "item.realistic_metals.refined_glowstone_dust": "Пыль очищенного светокамня",
+  "item.realistic_metals.refined_glowstone_coin": "Монета из очищенного светокамня",
+  "item.realistic_metals.refined_glowstone_rod": "Стержень из очищенного светокамня",
+
+  "item.realistic_metals.brass_ingot": "Латунный слиток",
+  "item.realistic_metals.brass_nugget": "Кусочек латуни",
+  "item.realistic_metals.brass_plate": "Латунная пластина",
+  "item.realistic_metals.brass_gear": "Латунная шестерня",
+  "item.realistic_metals.brass_dust": "Латунная пыль",
+  "item.realistic_metals.brass_coin": "Латунная монета",
+  "item.realistic_metals.brass_rod": "Латунный стержень",
+
+  "item.realistic_metals.electrum_ingot": "Электрумовый слиток",
+  "item.realistic_metals.electrum_nugget": "Кусочек электрума",
+  "item.realistic_metals.electrum_plate": "Электрумовая пластина",
+  "item.realistic_metals.electrum_gear": "Электрумовая шестерня",
+  "item.realistic_metals.electrum_dust": "Электрумовая пыль",
+  "item.realistic_metals.electrum_coin": "Электрумовая монета",
+  "item.realistic_metals.electrum_rod": "Электрумовый стержень",
+
+  "item.realistic_metals.enderium_ingot": "Эндериумовый слиток",
+  "item.realistic_metals.enderium_nugget": "Кусочек эндериума",
+  "item.realistic_metals.enderium_plate": "Эндериумовая пластина",
+  "item.realistic_metals.enderium_gear": "Эндериумовая шестерня",
+  "item.realistic_metals.enderium_dust": "Эндериумовая пыль",
+  "item.realistic_metals.enderium_coin": "Эндериумовая монета",
+  "item.realistic_metals.enderium_rod": "Эндериумовый стержень",
+
+  "item.realistic_metals.steel_ingot": "Стальной слиток",
+  "item.realistic_metals.steel_nugget": "Кусочек стали",
+  "item.realistic_metals.steel_plate": "Стальная пластина",
+  "item.realistic_metals.steel_gear": "Стальная шестерня",
+  "item.realistic_metals.steel_dust": "Стальная пыль",
+  "item.realistic_metals.steel_coin": "Стальная монета",
+  "item.realistic_metals.steel_rod": "Стальной стержень",
+
+  "item.realistic_metals.andesite_alloy_ingot": "Слиток андезитового сплава",
+  "item.realistic_metals.andesite_alloy_nugget": "Кусочек андезитового сплава",
+  "item.realistic_metals.andesite_alloy_plate": "Пластина из андезитового сплава",
+  "item.realistic_metals.andesite_alloy_gear": "Шестерня из андезитового сплава",
+  "item.realistic_metals.andesite_alloy_dust": "Пыль андезитового сплава",
+  "item.realistic_metals.andesite_alloy_coin": "Монета из андезитового сплава",
+  "item.realistic_metals.andesite_alloy_rod": "Стержень из андезитового сплава",
+
+  "item.realistic_metals.lumium_ingot": "Люмиевый слиток",
+  "item.realistic_metals.lumium_nugget": "Кусочек люмия",
+  "item.realistic_metals.lumium_plate": "Люмиевый пластина",
+  "item.realistic_metals.lumium_gear": "Люмиевая шестерня",
+  "item.realistic_metals.lumium_dust": "Люмиевая пыль",
+  "item.realistic_metals.lumium_coin": "Люмиевая монета",
+  "item.realistic_metals.lumium_rod": "Люмиевый стержень",
+
+  "item.realistic_metals.rose_gold_ingot": "Слиток розового золота",
+  "item.realistic_metals.rose_gold_nugget": "Кусочек розового золота",
+  "item.realistic_metals.rose_gold_plate": "Пластина из розового золота",
+  "item.realistic_metals.rose_gold_gear": "Шестерня из розового золота",
+  "item.realistic_metals.rose_gold_dust": "Пыль розового золота",
+  "item.realistic_metals.rose_gold_coin": "Монета из розового золота",
+  "item.realistic_metals.rose_gold_rod": "Стержень из розового золота",
+
+  "item.realistic_metals.iron_compressed_ingot": "Слиток прессованого железа",
+  "item.realistic_metals.iron_compressed_nugget": "Кусочек прессованого железа",
+  "item.realistic_metals.iron_compressed_plate": "Пластина из прессованого железа",
+  "item.realistic_metals.iron_compressed_gear": "Шестерня из прессованого железа",
+  "item.realistic_metals.iron_compressed_dust": "Пыль прессованого железа",
+  "item.realistic_metals.iron_compressed_coin": "Монета из прессованого железа",
+  "item.realistic_metals.iron_compressed_rod": "Стержень из прессованого железа",
+
+  "item.realistic_metals.graphite_ingot": "Графитовый слиток",
+  "item.realistic_metals.graphite_plate": "Графитовая пластина",
+  "item.realistic_metals.graphite_dust": "Графитовая пыль",
+  "item.realistic_metals.graphite_coin": "Графитовая монета",
+  "item.realistic_metals.graphite_rod": "Графитовый стержень",
+
+  "item.realistic_metals.plastic_plate": "Пластиковая пластина",
+  "item.realistic_metals.plastic_rod": "Пластиковый стержень",
+
+  "item.realistic_metals.quartz_enriched_iron_ingot": "Слиток обогащённого кварцем железа",
+  "item.realistic_metals.quartz_enriched_iron_nugget": "Кусочек обогащённого кварцем железа",
+  "item.realistic_metals.quartz_enriched_iron_plate": "Пластина из обогащённого кварцем железа",
+  "item.realistic_metals.quartz_enriched_iron_gear": "Шестерня из обогащённого кварцем железа",
+  "item.realistic_metals.quartz_enriched_iron_dust": "Пыль обогащённого кварцем железа",
+  "item.realistic_metals.quartz_enriched_iron_coin": "Монета из обогащённого кварцем железа",
+  "item.realistic_metals.quartz_enriched_iron_rod": "Стержень из обогащённого кварцем железа",
+
+  "item.realistic_metals.coal_dust": "Угольная пыль",
+
+  "item.realistic_metals.charcoal_dust": "Пыль древесного угля",
+
+  "item.realistic_metals.obsidian_dust": "Обсидиановая пыль",
+
+  "item.realistic_metals.calcite_dust": "Кальцитовая пыль",
+
+  "item.realistic_metals.prismarine_dust": "Призмариновая пыль",
+
+  "item.realistic_metals.ender_pearl_dust": "Пыль эндер жемчуга",
+
+  "item.realistic_metals.netherrack_dust": "Незераковая пыль",
+
+  "item.realistic_metals.amethyst_dust": "Аметистовая пыль",
+
+  "item.realistic_metals.crying_obsidian_dust": "Пыль плачущего обсидиана",
+
+  "item.realistic_metals.end_stone_dust": "Эндерняковая пыль",
+
+
+  "item.realistic_metals.iron_hammer": "Железный молот",
+  "item.realistic_metals.brass_hammer": "Латунный молот",
+  "item.realistic_metals.enderium_hammer": "Эндериумовый молот",
+  "item.realistic_metals.osmium_hammer": "Осмиевый молот",
+
+
+  "creativetab.realistic_metals_tab": "Realistic Metals"
+}

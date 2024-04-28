@@ -6,11 +6,11 @@ plugins {
     id 'org.parchmentmc.librarian.forgegradle' version '1.+'
 }
 
-version = '1.1.8'
-group = 'net.indevo.evolved_resources'
+version = '1.2.0'
+group = 'net.indevo.realistic_metals'
 
 base {
-    archivesName = 'evolved_resources'
+    archivesName = 'realistic_metals'
 }
 
 // Mojang ships Java 17 to end users in 1.18+, so your mod should target Java 17.
@@ -76,7 +76,7 @@ minecraft {
             property 'forge.logging.console.level', 'debug'
 
             mods {
-                "evolved_resources" {
+                "realistic_metals" {
                     source sourceSets.main
                 }
             }
@@ -84,11 +84,11 @@ minecraft {
 
         client {
             // Comma-separated list of namespaces to load gametests from. Empty = all namespaces.
-            property 'forge.enabledGameTestNamespaces', 'evolved_resources'
+            property 'forge.enabledGameTestNamespaces', 'realistic_metals'
         }
 
         server {
-            property 'forge.enabledGameTestNamespaces', 'evolved_resources'
+            property 'forge.enabledGameTestNamespaces', 'realistic_metals'
             args '--nogui'
         }
 
@@ -96,7 +96,7 @@ minecraft {
         // By default, the server will crash when no gametests are provided.
         // The gametest system is also enabled by default for other run configs under the /test command.
         gameTestServer {
-            property 'forge.enabledGameTestNamespaces', 'evolved_resources'
+            property 'forge.enabledGameTestNamespaces', 'realistic_metals'
         }
 
         data {
@@ -104,7 +104,7 @@ minecraft {
             workingDirectory project.file('run-data')
 
             // Specify the modid for data generation, where to output the resulting resource, and where to look for existing resources.
-            args '--mod', 'evolved_resources', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
+            args '--mod', 'realistic_metals', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
         }
     }
 }
@@ -167,7 +167,7 @@ tasks.named('processResources', ProcessResources).configure {
             minecraft_version: minecraft_version, minecraft_version_range: minecraft_version_range,
             forge_version: forge_version, forge_version_range: forge_version_range,
             loader_version_range: loader_version_range,
-            'evolved_resources': 'evolved_resources', mod_name: mod_name, mod_license: mod_license, mod_version: mod_version,
+            'realistic_metals': 'realistic_metals', mod_name: mod_name, mod_license: mod_license, mod_version: mod_version,
             mod_authors: mod_authors, mod_description: mod_description,
     ]
     inputs.properties replaceProperties
@@ -181,7 +181,7 @@ tasks.named('processResources', ProcessResources).configure {
 tasks.named('jar', Jar).configure {
     manifest {
         attributes([
-                'Specification-Title'     : 'evolved_resources',
+                'Specification-Title'     : 'realistic_metals',
                 'Specification-Vendor'    : mod_authors,
                 'Specification-Version'   : '1', // We are version 1 of ourselves
                 'Implementation-Title'    : project.name,
