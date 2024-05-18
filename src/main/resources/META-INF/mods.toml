@@ -9,14 +9,14 @@ license="MIT"
 
 modId="realistic_metals"
 
-version="1.2.0"
+version="1.1.9"
 
 displayName="Realistic Metals"
 
 authors="IndEvo Studio"
 
 
-description='''Mod created to unify ores, alloys and materials from different mods for Modpacks.'''
+description='''Real ores and gems, tools and armor.'''
 
 [[dependencies.realistic_metals]]
 
